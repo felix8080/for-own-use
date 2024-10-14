@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b1e837a-0584-4361-851a-9dcaa7dc6b7f" name="Default Changelist" comment="新增ipv4.m3u文件" />
+    <list default="true" id="3b1e837a-0584-4361-851a-9dcaa7dc6b7f" name="Default Changelist" comment="新增ipv4.m3u文件">
+      <change afterPath="$PROJECT_DIR$/iptv/ipv6.m3u" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,9 @@
     <option name="defaultAccountId" value="5eea8558-3e7c-4bc0-b8f8-edf83f8fcc77" />
   </component>
   <component name="ProjectId" id="2nKeec14XRAfb5XfCwzZ84HiVdo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -38,6 +44,10 @@
       <workItem from="1728726297501" duration="4833000" />
       <workItem from="1728731923101" duration="777000" />
       <workItem from="1728733293078" duration="185000" />
+      <workItem from="1728733621512" duration="754000" />
+      <workItem from="1728734529461" duration="960000" />
+      <workItem from="1728737651717" duration="522000" />
+      <workItem from="1728885670778" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="新增ipv4.m3u文件">
       <created>1728727508207</created>
