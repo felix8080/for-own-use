@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.erw.cc/e.xml.gz"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz";
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视IPV4",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -128,5 +128,5 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="370" tvg-name="精品体育" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV18.png" group-title="特色IPV4",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="391" tvg-name="睛彩篮球" tvg-logo="https://pic.erw.cc/epglogo/raw/shuzi/jingcai03.png" group-title="特色IPV4",睛彩篮球
+#EXTINF:-1 tvg-id="391" tvg-name="睛彩篮球" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai03.png" group-title="特色IPV4",睛彩篮球
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
