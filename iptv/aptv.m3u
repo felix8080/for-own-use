@@ -143,7 +143,7 @@ http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="港台",中天亚洲台
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="港台",中天亚洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台",中天新闻台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
