@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.erw.cc/e.xml.gz"
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Zhejiang.png" group-title="浙江",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
