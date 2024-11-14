@@ -1,219 +1,57 @@
-4gtv,#genre#
-民视台湾台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv001
-民视,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv002
-民视第一台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv003
-民视综艺,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv004
-猪哥亮歌厅秀,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv006
-中天新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
-非凡新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv010
-影迷数位电影台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv011
-视纳华仁纪实频道,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv013
-时尚运动X,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv014
-GLOBAL-NEWS,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv016
-AMC电影台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
-达文西,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv018
-八大精彩台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv034
-八大综艺台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv039
-中视,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv040
-华视,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv041
-公视戏剧,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv042
-客家电视台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv043
-靖天卡通台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv044
-靖洋戏剧台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv045
-靖天综合台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv046
-靖天日本台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv047
-非凡商业,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv048
-采昌影剧,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv049
-台视新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv051
-华视新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv052
-GINX Esports TV,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv053
-Nice TV 靖天欢乐台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv054
-靖天映画,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv055
-台视财经台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv056
-靖洋卡通台Nice Bingo,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv057
-靖天戏剧台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv058
-古典音乐台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv059
-靖天电影台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
-靖天育乐台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv062
-KLT靖天国际台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv063
-中视菁采,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv064
-靖天资讯台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv065
-台视,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv066
-TVBS精采台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv067
-TVBS欢乐台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv068
-爱尔达娱乐,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv070
-TVBS新闻台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv072
-tvbs,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv073
-中视新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv074
-镜新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv075
-CatchPlay电影台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv076
-TRACESPORTS,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv077
-阿里郎,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv079
-中视经典,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv080
-TRACEURBAN,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv082
-MEZZOLIVEHD,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv083
-国会频道1,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv084
-国会频道2,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv085
-智林体育台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv101
-HOY国际财经台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv104
-第1商業台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv109
-东森新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv152
-东森财经新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv153
-民视,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv155
-民视台湾台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv156
-美国之音,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-ftv03
-民视旅游,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-ftv07
-民视影剧,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-ftv09
-半岛新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-ftv10
-民视新闻台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-ftv13
-amc最爱电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-ftv15
-好消息,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-ftv16
-好消息2台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-ftv17
-深圳龙华,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn01
-龙华电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn03
-博斯魅力,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn04
-博斯高球,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn05
-博斯高球,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn06
-博斯运动1,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn07
-博斯运动2,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn08
-博斯网球,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn09
-博斯无限,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn10
-龙华日韩,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn11
-龙华偶像,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn12
-博斯无限,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn13
-寰宇新闻台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn14
-寰宇新闻台湾台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn15
-亚洲旅游台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn17
-龙华戏剧,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn18
-Smart知识台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn19
-ELTV生活英语台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn20
-龙华经典,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn21
-台湾戏剧台,https://4gtv.mytvsuper.xyz/4gtv.php?id=litv-longturn22
-
-Hami,#genre#
-愛爾達綜合台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001573
-愛爾達娛樂台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001518
-愛爾達影劇台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001517
-愛爾達日韓台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002079
-愛爾達體育1台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001744
-愛爾達體育2台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001743
-愛爾達體育3台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001745
-愛爾達體育4台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002055
-愛爾達體育MAX1台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001853
-愛爾達體育MAX2台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001854
-愛爾達體育MAX3台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001855
-愛爾達體育MAX4台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001856
-Hami MLB 台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002017
-Hami 羽球台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001830
-Hami 羽球台(免費),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001831
-Hami 卡通台(免費),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002083
-Hami 日漫台(免費),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002087
-Hami 韓劇台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002073
-Hami 韓劇台(免費),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002072
-博斯運動一台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001845
-博斯網球台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001903
-博斯魅力網,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001972
-博斯高球一台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001846
-博斯無限台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001882
-博斯無限二台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001973
-Ginx TV 電競頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001850
-amc 電影台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001546
-Asian Food Network 亞洲美食頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002039
-BBC Cbeebies,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001711
-BBC Earth,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001510
-BBC Lifestyle,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001513
-BBC NEWS,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001527
-Bloomberg TV,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002015
-Cartoonito,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001889
-CatchPlay 電影台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001710
-CNEX 紀實頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001752
-CNN 國際新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002003
-CNN 頭條新聞台(HLN),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002004
-CN 卡通頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002002
-Discovery Asia,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001924
-Discovery DMAX,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001514
-Discovery EVE,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001511
-Discovery Science,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001512
-DreamWorks 夢工廠動畫,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001836
-Eurosport,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001771
-Global Trekker,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001971
-HGTV 居家樂活頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001901
-History,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001859
-INULTRA,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002056
-Lifetime,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001970
-LiveABC 互動英語頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001914
-Love Nature,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001867
-Mezzo Live,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001757
-MOMO 親子台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001865
-NHK 新聞資訊台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001974
-Nick Jr.,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001939
-PET CLUB TV,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001876
-Rock Action,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002005
-Rock Entertainment,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001860
-Rock Extreme,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001861
-TechStorm,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001766
-Trace Sport Stars,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001759
-Trace Urban,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001758
-Travel Channel,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001756
-TVBS,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001561
-TVBS 新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001560
-TVBS 歡樂台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001559
-TVBS 精采台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001789
-tvN,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001884
-Warner TV,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001888
-三立新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001516
-三立 iNEWS,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001690
-中天新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001562
-中央氣象署影音頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001508
-中視,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001568
-中視新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001567
-中視經典台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001566
-中視菁采台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001541
-亞洲旅遊台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002070
-人間衛視,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001793
-八大精彩台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001528
-八大綜藝台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001549
-八大綜藝台(免費),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002080
-公視戲劇台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001555
-古典音樂台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001539
-台視,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001519
-台視新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001565
-台視綜合台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001790
-台視財經台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001791
-國會頻道1,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001736
-國會頻道2,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001735
-大愛電視,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001538
-寰宇新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002069
-尼克兒童頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001851
-影迷數位電影台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001689
-愛放 ifun 動漫台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001520
-東森新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001564
-東森財經台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001563
-東森購物頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001509
-民視台灣台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001579
-民視影劇台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001551
-民視新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001533
-民視無線台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001534
-民視第一台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001535
-民視綜藝台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001550
-空中英語教室,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001553
-罪案偵緝頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002019
-華藝 MBC 綜合台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001825
-華視,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001526
-華視新聞資訊台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001569
-華視新聞資訊台(免費),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002081
-豬哥亮歌廳秀,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001548
-達文西頻道,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001547
-達文西頻道(免費),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001900
-采昌影劇台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001635
-金光布袋戲,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001915
-鏡電視新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002006
-電影原聲台 CMusic,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001938
-靖天日本台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001652
-非凡商業台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001649
-非凡新聞台,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001650
-龍華偶像,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001904
-龍華偶像(免費),https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000002085
-龍華影劇,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001542
-龍華戲劇,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001839
-龍華電影,https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001840
+港台频道,#genre#
+28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧经典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娱乐新闻台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亚电影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龙华日韩台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龙华经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龙华电影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亚洲新闻台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+东方卫视国际频道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+无线卫星新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
