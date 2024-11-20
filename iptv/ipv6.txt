@@ -69,6 +69,15 @@ CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.li
 农林卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?IASHttpSessionId=
 陕西卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000029/index.m3u8?IASHttpSessionId=
 
+湖南频道,#genre#
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
+湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
+
 山东频道,#genre#
 山东卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8?IASHttpSessionId=
 山东卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000370/index.m3u8?IASHttpSessionId=$HEVC
