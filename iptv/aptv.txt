@@ -22,7 +22,7 @@ CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC家庭影院
 
 卫视IPV4,#genre#
 北京卫视,http://148.135.93.213:81/live.php?id=北京卫视
-湖南卫视,http://ipv4.yximgs.top:2200/IPTV.php?id=hunws
+湖南卫视,http://148.135.93.213:81/live.php?id=湖南卫视
 浙江卫视,http://148.135.93.213:81/live.php?id=浙江卫视
 江苏卫视,http://148.135.93.213:81/live.php?id=江苏卫视
 陕西卫视,http://148.135.93.213:81/live.php?id=陕西卫视
