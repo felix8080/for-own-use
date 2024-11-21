@@ -31,15 +31,13 @@ http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 https://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist.m3u8
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台频道",TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港台频道",TVB生活
-http://v2h.jdshipin.com/finance2/finance2.stream/chunklis
 #EXTINF:-1,tvg-id="TVBJ2" tvg-name="TVBJ2" tvg-logo="https://epg.v1.mk/logo/TVBJ2.png" group-title="港台频道",TVBJ1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-#EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="港台频道",Hoy 78
+#EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="港台频道",HOY78
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="港台频道",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="港台频道",PopC
+#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="港台频道",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="港台频道",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
@@ -87,7 +85,7 @@ https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv009
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="港台频道",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港台频道",TVBS-新闻台
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港台频道",TVBS新闻台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港台频道",华视
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
