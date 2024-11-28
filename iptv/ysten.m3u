@@ -180,7 +180,7 @@ http://39.134.136.161:6610/000000001000/2000000003000000038/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/1000000005000265015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265015
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://39.134.136.161:6610/000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTNM.png" group-title="央视频道",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
 http://39.134.136.161:6610/000000001000/7745129417417101820/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7745129417417101820
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="央视频道",CGTN记录
 http://39.134.136.161:6610/000000001000/7114647837765104058/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7114647837765104058
