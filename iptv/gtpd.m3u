@@ -12,15 +12,13 @@ http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="港台线路一",凤凰香港
 http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1,tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://epg.v1.mk/logo/TVB翡翠.png" group-title="港台线路一",TVB翡翠台
+#EXTINF:-1,tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="https://epg.v1.mk/logo/TVB翡翠.png" group-title="港台线路一",TVB翡翠
 http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台线路一",TVB星河
-http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="港台线路一",无线新闻
 http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-#EXTINF:-1,tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://epg.v1.mk/logo/TVB翡翠.png" group-title="港台线路一",TVB翡翠台
-http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-#EXTINF:-1,tvg-id="TVB经典" tvg-name="TVB经典" tvg-logo="https://epg.v1.mk/logo/TVB经典.png" group-title="港台线路一",TVB经典
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台线路一",TVB星河
+http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+#EXTINF:-1,tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="港台线路一",TVB翡翠
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 #EXTINF:-1,tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://epg.v1.mk/logo/千禧经典.png" group-title="港台线路一",千禧经典
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic

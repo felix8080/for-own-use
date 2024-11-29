@@ -6,10 +6,9 @@
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-无线翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 
