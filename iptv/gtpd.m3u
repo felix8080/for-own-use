@@ -216,6 +216,8 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.v1.mk/logo/动物星球.png" group-title="港台线路三",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1,tvg-id="AMC电影" tvg-name="AMC电影" tvg-logo="https://epg.v1.mk/logo/AMC电影台.png" group-title="港台线路三",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1,tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://epg.v1.mk/logo/中华功夫.png" group-title="港台线路三",中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
 
