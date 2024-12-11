@@ -36,6 +36,10 @@ http://156.226.173.233:8086/itv/1000000005000265014.m3u8?cdn=ystenlive
 http://156.226.173.233:8086/itv/1000000006000233002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://156.226.173.233:8086/itv/1000000005000265015.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV1
+http://156.226.173.233:8086/itv/5000000002000002652.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV4
+http://156.226.173.233:8086/itv/5000000011000031126.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
 http://156.226.173.233:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
@@ -127,10 +131,6 @@ http://156.226.173.233:8086/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上视新闻
 http://156.226.173.233:8086/itv/5000000011000031110.m3u8?cdn=bestzb
 
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="数字频道",中国教育1台
-http://156.226.173.233:8086/itv/5000000002000002652.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png" group-title="数字频道",中国教育4台
-http://156.226.173.233:8086/itv/5000000011000031126.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="数字频道",求索动物
 http://156.226.173.233:8086/itv/6000000002000010046.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
