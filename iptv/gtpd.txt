@@ -1,12 +1,53 @@
 港台线路一,#genre#
-凤凰中文,http://kxrj.site:1333/86/fh.php?id=fhzw
-凤凰资讯,http://kxrj.site:1333/86/fh.php?id=fhzx
-凤凰香港,http://kxrj.site:1333/86/fh.php?id=fhhk
-凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
-TVB翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+东方卫视国际频道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+ViuTVsix,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+千禧经典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娱乐新闻台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+美亚电影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+now 星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+now 爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+Animax,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龙华日韩台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龙华经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龙华电影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+i-Fun 动漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+Kix,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+CNA,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 
 港台线路二,#genre#
