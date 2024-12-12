@@ -3,6 +3,3 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
 测试线路二,#genre#
 CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
-
-测试线路二,#genre#
-CCTV1,http://39.134.136.161:6610/000000001000/1000000001000021973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021973
