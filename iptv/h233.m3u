@@ -106,6 +106,8 @@ http://felix365.us.kg/itv/7851974109718180595.m3u8?cdn=bestzb
 http://felix365.us.kg/itv/1000000005000265020.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方频道",上海都市
 http://felix365.us.kg/itv/5000000010000018926.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="地方频道",哈哈炫动
+http://felix365.us.kg/itv/5000000011000031123.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上视新闻
 http://felix365.us.kg/itv/5000000011000031110.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方频道",东方影视
@@ -114,8 +116,6 @@ http://felix365.us.kg/itv/5000000010000032212.m3u8?cdn=bestzb
 http://felix365.us.kg/itv/5000000010000030951.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方频道",五星体育
 http://felix365.us.kg/itv/5000000010000017540.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="地方频道",哈哈炫动
-http://felix365.us.kg/itv/5000000011000031123.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方频道",纪实人文
 http://felix365.us.kg/itv/1000000005000265021.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="地方频道",法治天地
