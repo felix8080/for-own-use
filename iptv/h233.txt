@@ -52,6 +52,8 @@ CGTN纪录,http://felix365.us.kg/itv/7114647837765104058.m3u8?cdn=hnbblive
 辽宁卫视,http://felix365.us.kg/itv/1000000005000265022.m3u8?cdn=ystenlive
 
 地方频道,#genre#
+黑莓动画,http://felix365.us.kg/itv/1000000004000021734.m3u8?cdn=ystenlive
+黑莓电影,http://felix365.us.kg/itv/1000000004000019624.m3u8?cdn=ystenlive
 卡酷少儿,http://felix365.us.kg/itv/7851974109718180595.m3u8?cdn=bestzb
 北京纪实科教,http://felix365.us.kg/itv/1000000005000265020.m3u8?cdn=ystenlive
 上海都市,http://felix365.us.kg/itv/5000000010000018926.m3u8?cdn=bestzb
@@ -73,8 +75,6 @@ CGTN纪录,http://felix365.us.kg/itv/7114647837765104058.m3u8?cdn=hnbblive
 求索纪录,http://felix365.us.kg/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://felix365.us.kg/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://felix365.us.kg/itv/6000000002000003382.m3u8?cdn=wasusyt
-黑莓电影,http://felix365.us.kg/itv/1000000004000019624.m3u8?cdn=ystenlive
-黑莓动画,http://felix365.us.kg/itv/1000000004000021734.m3u8?cdn=ystenlive
 军事评论,http://felix365.us.kg/itv/2000000003000000022.m3u8?cdn=hnbblive
 军旅剧场,http://felix365.us.kg/itv/2000000003000000014.m3u8?cdn=hnbblive
 动作电影,http://felix365.us.kg/itv/1000000004000018653.m3u8?cdn=ystenlive

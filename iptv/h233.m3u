@@ -100,6 +100,10 @@ http://felix365.us.kg/itv/5000000011000031117.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://felix365.us.kg/itv/1000000005000265022.m3u8?cdn=ystenlive
 
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="地方频道",黑莓动画
+http://felix365.us.kg/itv/1000000004000021734.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="地方频道",黑莓电影
+http://felix365.us.kg/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方频道",卡酷少儿
 http://felix365.us.kg/itv/7851974109718180595.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
@@ -139,10 +143,6 @@ http://felix365.us.kg/itv/6000000002000032052.m3u8?cdn=wasusyt
 http://felix365.us.kg/itv/6000000002000032344.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="数字频道",求索生活
 http://felix365.us.kg/itv/6000000002000003382.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
-http://felix365.us.kg/itv/1000000004000019624.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
-http://felix365.us.kg/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV01.png" group-title="数字频道",军事评论
 http://felix365.us.kg/itv/2000000003000000022.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV02.png" group-title="数字频道",军旅剧场
