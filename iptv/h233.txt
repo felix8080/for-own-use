@@ -69,6 +69,8 @@ CGTN纪录,http://felix365.us.kg/itv/7114647837765104058.m3u8?cdn=hnbblive
 金鹰纪实,http://felix365.us.kg/itv/5000000011000031203.m3u8?cdn=bestzb
 快乐垂钓,http://felix365.us.kg/itv/5000000011000031206.m3u8?cdn=bestzb
 茶,http://felix365.us.kg/itv/5000000011000031209.m3u8?cdn=bestzb
+哒啵电竞,http://felix365.us.kg/itv/1000000006000032327.m3u8?cdn=ystenlive
+哒啵赛事,http://felix365.us.kg/itv/1000000001000003775.m3u8?cdn=ystenlive
 
 数字频道,#genre#
 求索动物,http://felix365.us.kg/itv/6000000002000010046.m3u8?cdn=wasusyt
@@ -102,8 +104,6 @@ CGTN纪录,http://felix365.us.kg/itv/7114647837765104058.m3u8?cdn=hnbblive
 魅力潇湘,http://felix365.us.kg/itv/1000000001000006197.m3u8?cdn=ystenlive
 精品萌宠,http://felix365.us.kg/itv/1000000006000032328.m3u8?cdn=ystenlive
 精品综合,http://felix365.us.kg/itv/1000000004000019008.m3u8?cdn=ystenlive
-哒啵赛事,http://felix365.us.kg/itv/1000000001000003775.m3u8?cdn=ystenlive
-哒啵电竞,http://felix365.us.kg/itv/1000000006000032327.m3u8?cdn=ystenlive
 iHOT爱电竞,http://felix365.us.kg/itv/6000000006000230630.m3u8?cdn=wasusyt
 iHOT爱谍战,http://felix365.us.kg/itv/6000000006000070630.m3u8?cdn=wasusyt
 iHOT爱动漫,http://felix365.us.kg/itv/6000000006000280630.m3u8?cdn=wasusyt
