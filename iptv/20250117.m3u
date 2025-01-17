@@ -199,32 +199,32 @@ webview://https://www.gdtv.cn/tvChannelDetail/102
 webview://https://www.gdtv.cn/tvChannelDetail/104
 
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="芒果网",金鹰卡通
-https://live.mgtv.com/?channelId=287
+webview://https://live.mgtv.com/?channelId=287
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="芒果网",湖南经视
-https://live.mgtv.com/?channelId=280
+webview://https://live.mgtv.com/?channelId=280
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.cn/tv/湖南都市.png" group-title="芒果网",湖南都市
-https://live.mgtv.com/?channelId=346
+webview://https://live.mgtv.com/?channelId=346
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.cn/tv/湖南国际.png" group-title="芒果网",湖南国际
-https://live.mgtv.com/?channelId=229
+webview://https://live.mgtv.com/?channelId=229
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.cn/tv/湖南娱乐.png" group-title="芒果网",湖南娱乐
-https://live.mgtv.com/?channelId=344
+webview://https://live.mgtv.com/?channelId=344
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.cn/tv/湖南爱晚.png" group-title="芒果网",湖南爱晚
-https://live.mgtv.com/?channelId=261
+webview://https://live.mgtv.com/?channelId=261
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.cn/tv/湖南电影.png" group-title="芒果网",湖南电影
-https://live.mgtv.com/?channelId=221
+webview://https://live.mgtv.com/?channelId=221
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.cn/tv/湖南电视剧.png" group-title="芒果网",湖南电视剧
-https://live.mgtv.com/?channelId=484
+webview://https://live.mgtv.com/?channelId=484
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="芒果网",茶频道
-https://live.mgtv.com/?channelId=578
+webview://https://live.mgtv.com/?channelId=578
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="芒果网",金鹰纪实
-https://live.mgtv.com/?channelId=316
+webview://https://live.mgtv.com/?channelId=316
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="芒果网",快乐垂钓
-https://live.mgtv.com/?channelId=218
+webview://https://live.mgtv.com/?channelId=218
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.cn/tv/先锋乒羽.png" group-title="芒果网",先锋乒羽
-https://live.mgtv.com/?channelId=329
+webview://https://live.mgtv.com/?channelId=329
 #EXTINF:-1 tvg-name="快乐购" tvg-logo="https://live.fanmingming.cn/tv/快乐购.png" group-title="芒果网",快乐购
-https://live.mgtv.com/?channelId=267
+webview://https://live.mgtv.com/?channelId=267
 #EXTINF:-1 tvg-name="长沙新闻综合" tvg-logo="https://epg.v1.mk/logo/长沙新闻.png" group-title="芒果网",长沙新闻综合
-https://live.mgtv.com/?channelId=269
+webview://https://live.mgtv.com/?channelId=269
 #EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://epg.v1.mk/logo/长沙政法.png" group-title="芒果网",长沙政法
-https://live.mgtv.com/?channelId=254
+webview://https://live.mgtv.com/?channelId=254
