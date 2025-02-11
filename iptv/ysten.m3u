@@ -125,9 +125,9 @@ http://gslbserv.itv.cmvideo.cn/1000000002000011619/1.m3u8?channel-id=ystenlive&C
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="地方频道",黑莓动画
 http://gslbserv.itv.cmvideo.cn/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
-http://gslbserv.itv.cmvideo.cn:80/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=fy666
+http://gslbserv.itv.cmvideo.cn/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="地方频道",卡酷少儿
-http://gslbserv.itv.cmvideo.cn:80/1000000002000002413/1.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=fy666
+http://gslbserv.itv.cmvideo.cn/1000000002000002413/1.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="地方频道",优漫卡通
 http://gslbserv.itv.cmvideo.cn/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="地方频道",哈哈炫动
@@ -136,6 +136,22 @@ http://gslbserv.itv.cmvideo.cn/1000000002000000172/1.m3u8?channel-id=ystenlive&C
 http://gslbserv.itv.cmvideo.cn/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
 http://gslbserv.itv.cmvideo.cn/1000000001000028380/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=fy666
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="地方频道",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="地方频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="地方频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-name="钱江都市" tvg-logo="https://live.fanmingming.cn/tv/钱江都市.png" group-title="地方频道",钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://live.fanmingming.cn/tv/之江纪录.png" group-title="地方频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://live.fanmingming.cn/tv/浙江经济生活.png" group-title="地方频道",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.cn/tv/浙江教科影视.png" group-title="地方频道",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.cn/tv/浙江民生休闲.png" group-title="地方频道",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="地方频道",湖南经视
 http://gslbserv.itv.cmvideo.cn/7766420291569067385/1.m3u8?channel-id=hnbblive&Contentid=7766420291569067385&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.cn/tv/湖南都市.png" group-title="地方频道",湖南都市
@@ -184,7 +200,7 @@ http://gslbserv.itv.cmvideo.cn/1000000004000019008/1.m3u8?channel-id=ystenlive&C
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="数字频道",NewTV欢乐剧场
 http://gslbserv.itv.cmvideo.cn/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武搏世界
-http://gslbserv.itv.cmvideo.cn:80/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=fy666
+http://gslbserv.itv.cmvideo.cn/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV15.png" group-title="数字频道",NewTV潮妈辣婆
 http://gslbserv.itv.cmvideo.cn/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV16.png" group-title="数字频道",NewTV炫舞未来
@@ -209,14 +225,5 @@ http://gslbserv.itv.cmvideo.cn/1000000006000268002/1.m3u8?channel-id=ystenlive&C
 http://gslbserv.itv.cmvideo.cn/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV34.png" group-title="数字频道",NewTV魅力潇湘
 http://gslbserv.itv.cmvideo.cn/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=fy666
-#EXTINF:-1 tvg-name="精彩推荐" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV38.png" group-title="数字频道",NewTV精彩推荐
-http://gslbserv.itv.cmvideo.cn/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=fy666
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV39.png" group-title="数字频道",NewTV精品萌宠
 http://gslbserv.itv.cmvideo.cn/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=fy666
-
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://live.fanmingming.cn/tv/纯享4K.png" group-title="4K频道",纯享4K
-http://gslbserv.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=fy666
-#EXTINF:-1 tvg-name="LoveNature" tvg-logo="https://live.fanmingming.cn/tv/LoveNature.png" group-title="4K频道",LoveNature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="loupe" tvg-logo="https://live.fanmingming.cn/tv/loupe.png" group-title="4K频道",loupe
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
