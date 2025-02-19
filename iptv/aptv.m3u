@@ -56,6 +56,8 @@ http://felix365.us.kg/itv/7114647837765104058.m3u8?cdn=hnbblive
 http://felix365.us.kg/itv/1000000006000280004.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
 http://felix365.us.kg/itv/1000000006000280003.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+http://felix365.us.kg/itv/1000000006000280002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://felix365.us.kg/itv/1000000006000280001.m3u8?cdn=ystenlive
 
@@ -192,11 +194,15 @@ http://felix365.us.kg/itv/5000000011000031203.m3u8?cdn=bestzb
 http://felix365.us.kg/itv/5000000011000031206.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="地方频道",山东教育
 http://felix365.us.kg/itv/1000000002000004097.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="地方频道",哒啵电竞
-http://felix365.us.kg/itv/1000000006000032327.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="地方频道",哒啵赛事
-http://felix365.us.kg/itv/1000000001000003775.m3u8?cdn=ystenlive
 
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="数字频道",睛彩青少
+http://felix365.us.kg/itv/1000000006000270007.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球
+http://felix365.us.kg/itv/1000000006000270002.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
+http://felix365.us.kg/itv/1000000006000032327.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
+http://felix365.us.kg/itv/1000000001000003775.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="数字频道",求索动物
 http://felix365.us.kg/itv/2000000004000000009.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="数字频道",求索纪录
@@ -205,12 +211,6 @@ http://felix365.us.kg/itv/2000000004000000010.m3u8?cdn=hnbblive
 http://felix365.us.kg/itv/2000000004000000011.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="数字频道",求索生活
 http://felix365.us.kg/itv/2000000004000000008.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="数字频道",睛彩青少
-http://felix365.us.kg/itv/1000000006000270007.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球
-http://felix365.us.kg/itv/1000000006000270002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="数字频道",中国天气
-http://felix365.us.kg/itv/5000000005000031974.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV01.png" group-title="数字频道",NewTV军事评论
 http://felix365.us.kg/itv/2000000003000000022.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV02.png" group-title="数字频道",NewTV军旅剧场
