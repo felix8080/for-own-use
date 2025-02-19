@@ -267,12 +267,6 @@ http://felix365.us.kg/itv/2000000003000000067.m3u8?cdn=hnbblive
 http://felix365.us.kg/itv/6000000006000070630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱动漫.png" group-title="数字频道",IHOT爱动漫
 http://felix365.us.kg/itv/6000000006000280630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="爱都市" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱都市.png" group-title="数字频道",IHOT爱都市
-http://felix365.us.kg/itv/6000000006000080630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="爱怀旧" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱怀旧.png" group-title="数字频道",IHOT爱怀旧
-http://felix365.us.kg/itv/6000000006000260630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="爱经典" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱经典.png" group-title="数字频道",IHOT爱经典
-http://felix365.us.kg/itv/6000000006000060630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱科幻.png" group-title="数字频道",IHOT爱科幻
 http://felix365.us.kg/itv/6000000006000020630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱科学" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱科学.png" group-title="数字频道",IHOT爱科学
@@ -285,8 +279,6 @@ http://felix365.us.kg/itv/6000000006000150630.m3u8?cdn=wasusyt
 http://felix365.us.kg/itv/6000000006000250630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱奇谈.png" group-title="数字频道",IHOT爱奇谈
 http://felix365.us.kg/itv/6000000006000270630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="爱青春" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱青春.png" group-title="数字频道",IHOT爱青春
-http://felix365.us.kg/itv/6000000006000100630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱赛车.png" group-title="数字频道",IHOT爱赛车
 http://felix365.us.kg/itv/6000000006000240630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱体育.png" group-title="数字频道",IHOT爱体育
