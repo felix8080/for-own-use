@@ -166,7 +166,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="地方频道",上海都市
 http://59.60.46.113:9000/TVOD/5000000010000018926/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上视新闻" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="地方频道",上视新闻
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="地方频道",上视新闻
 http://59.60.46.113:9000/TVOD/5000000011000031110/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="地方频道",东方影视
 http://59.60.46.113:9000/TVOD/5000000010000032212/bestzb/index.m3u8
@@ -180,7 +180,7 @@ http://59.60.46.113:9000/TVOD/5000000004000010282/bestzb/index.m3u8
 http://59.60.46.113:9000/TVOD/9001547084732463424/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="地方频道",东方财经
 http://59.60.46.113:9000/TVOD/5000000007000010003/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="地方频道",上海第一财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="地方频道",第一财经
 http://59.60.46.113:9000/TVOD/5000000010000027146/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="地方频道",湖南经视
 http://59.60.46.113:9000/TVOD/7766420291569067385/hnbblive/index.m3u8
@@ -243,7 +243,7 @@ http://59.60.46.113:9000/TVOD/7820874641606664941/ystenlive/index.m3u8
 http://59.60.46.113:9000/TVOD/1000000004000019008/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="数字频道",NewTV欢乐剧场
 http://59.60.46.113:9000/TVOD/1000000005000266012/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武搏世界
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武搏世界
 http://59.60.46.113:9000/TVOD/2000000003000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV15.png" group-title="数字频道",NewTV潮妈辣婆
 http://59.60.46.113:9000/TVOD/6516734029835465177/ystenlive/index.m3u8
