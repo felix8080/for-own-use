@@ -156,43 +156,73 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 webview://https://yangshipin.cn/tv/home?pid=600190403
 
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="本地频道",广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="地方频道",广东卫视
 webview://https://www.gdtv.cn/tvChannelDetail/43
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="本地频道",广东珠江
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="地方频道",广东珠江
 webview://https://www.gdtv.cn/tvChannelDetail/44
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="本地频道",广东新闻
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="地方频道",广东新闻
 webview://https://www.gdtv.cn/tvChannelDetail/45
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.cn/tv/广东民生.png" group-title="本地频道",广东民生
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.cn/tv/广东民生.png" group-title="地方频道",广东民生
 webview://https://www.gdtv.cn/tvChannelDetail/48
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="本地频道",广东体育
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="地方频道",广东体育
 webview://https://www.gdtv.cn/tvChannelDetail/47
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="本地频道",大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="地方频道",大湾区卫视
 webview://https://www.gdtv.cn/tvChannelDetail/51
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="本地频道",大湾区卫视 海外版
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="地方频道",大湾区卫视 海外版
 webview://https://www.gdtv.cn/tvChannelDetail/46
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="本地频道",广东影视
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="地方频道",广东影视
 webview://https://www.gdtv.cn/tvChannelDetail/53
-#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://live.fanmingming.cn/tv/广东4K.png" group-title="本地频道",广东4K
+#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://live.fanmingming.cn/tv/广东4K.png" group-title="地方频道",广东4K
 webview://https://www.gdtv.cn/tvChannelDetail/16
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="本地频道",广东少儿
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="地方频道",广东少儿
 webview://https://www.gdtv.cn/tvChannelDetail/54
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="本地频道",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="地方频道",嘉佳卡通
 webview://https://www.gdtv.cn/tvChannelDetail/66
-#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.cn/tv/岭南戏曲.png" group-title="本地频道",岭南戏曲
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.cn/tv/岭南戏曲.png" group-title="地方频道",岭南戏曲
 webview://https://www.gdtv.cn/tvChannelDetail/15
-#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="本地频道",南方购物
+#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="地方频道",南方购物
 webview://https://www.gdtv.cn/tvChannelDetail/42
-#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="本地频道",广东移动
+#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="地方频道",广东移动
 webview://https://www.gdtv.cn/tvChannelDetail/74
-#EXTINF:-1 tvg-name="荔枝台" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="本地频道",荔枝台
+#EXTINF:-1 tvg-name="荔枝台" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="地方频道",荔枝台
 webview://https://www.gdtv.cn/tvChannelDetail/100
-#EXTINF:-1 tvg-name="纪录片" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="本地频道",纪录片
+#EXTINF:-1 tvg-name="纪录片" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="地方频道",纪录片
 webview://https://www.gdtv.cn/tvChannelDetail/94
-#EXTINF:-1 tvg-name="GRTN健康频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="本地频道",GRTN健康频道
+#EXTINF:-1 tvg-name="GRTN健康频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="地方频道",GRTN健康频道
 webview://https://www.gdtv.cn/tvChannelDetail/99
-#EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="本地频道",GRTN文化频道
+#EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="地方频道",GRTN文化频道
 webview://https://www.gdtv.cn/tvChannelDetail/75
-#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="本地频道",GRTN生活频道
+#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="地方频道",GRTN生活频道
 webview://https://www.gdtv.cn/tvChannelDetail/102
-#EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="本地频道",GRTN教育频道
+#EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="地方频道",GRTN教育频道
 webview://https://www.gdtv.cn/tvChannelDetail/104
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
+webview://https://live.mgtv.com/?channelId=287
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="地方频道",湖南经视
+webview://https://live.mgtv.com/?channelId=280
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.cn/tv/湖南都市.png" group-title="地方频道",湖南都市
+webview://https://live.mgtv.com/?channelId=346
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.cn/tv/湖南国际.png" group-title="地方频道",湖南国际
+webview://https://live.mgtv.com/?channelId=229
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.cn/tv/湖南娱乐.png" group-title="地方频道",湖南娱乐
+webview://https://live.mgtv.com/?channelId=344
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.cn/tv/湖南爱晚.png" group-title="地方频道",湖南爱晚
+webview://https://live.mgtv.com/?channelId=261
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.cn/tv/湖南电影.png" group-title="地方频道",湖南电影
+webview://https://live.mgtv.com/?channelId=221
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.cn/tv/湖南电视剧.png" group-title="地方频道",湖南电视剧
+webview://https://live.mgtv.com/?channelId=484
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="地方频道",茶频道
+webview://https://live.mgtv.com/?channelId=578
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="地方频道",金鹰纪实
+webview://https://live.mgtv.com/?channelId=316
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="地方频道",快乐垂钓
+webview://https://live.mgtv.com/?channelId=218
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.cn/tv/先锋乒羽.png" group-title="地方频道",先锋乒羽
+webview://https://live.mgtv.com/?channelId=329
+#EXTINF:-1 tvg-name="快乐购" tvg-logo="https://live.fanmingming.cn/tv/快乐购.png" group-title="地方频道",快乐购
+webview://https://live.mgtv.com/?channelId=267
+#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://epg.v1.mk/logo/长沙新闻.png" group-title="地方频道",长沙新闻综合
+webview://https://live.mgtv.com/?channelId=269
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://epg.v1.mk/logo/长沙政法.png" group-title="地方频道",长沙政法
+webview://https://live.mgtv.com/?channelId=254
