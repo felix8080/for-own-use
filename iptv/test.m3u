@@ -6,5 +6,5 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="测试线路二",CCTV2
 http://gslbserv.itv.cmvideo.cn/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=fy666
 
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="测试线路二",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="测试线路三",CCTV3
 http://felix365.us.kg/TVOD/1000000001000011218/ystenlive/index.m3u8
