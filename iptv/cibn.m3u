@@ -128,5 +128,5 @@ http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/302
 http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/303
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.cn/tv/四川科教.png" group-title="地方频道",四川科教
 http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/304
-#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://live.fanmingming.cn/tv/四川峨眉电影.png" group-title="地方频道",四川峨眉电影
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.cn/tv/四川峨眉电影.png" group-title="地方频道",四川峨眉电影
 http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/306
