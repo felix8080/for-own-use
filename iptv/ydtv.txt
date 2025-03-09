@@ -88,6 +88,15 @@ CGTN阿语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226517/index.m
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
 湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+哈尔滨新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 
 数字频道,#genre#
 睛彩竞技,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8
@@ -98,6 +107,7 @@ NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225676/
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
 NewTV古装剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225663/index.m3u8
 NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225677/index.m3u8
+NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 NewTV中国功夫,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/index.m3u8
 NewTV农业致富,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225683/index.m3u8
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8
