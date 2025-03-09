@@ -184,12 +184,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://pic.erw.cc/epglogo/heilongjiang/Heilongjiang5.png" group-title="地方频道",黑龙江农业科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-name="哈尔滨新闻" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="地方频道",哈尔滨新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="地方频道",佳木斯新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="地方频道",鹤岗新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8
