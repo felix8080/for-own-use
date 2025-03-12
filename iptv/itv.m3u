@@ -203,10 +203,14 @@ http://itv.2025225.xyz/TVOD/5000000011000031203/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="地方频道",快乐垂钓
 http://itv.2025225.xyz/TVOD/5000000011000031206/bestzb/index.m3u8
 
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="数字频道",睛彩青少
-http://itv.2025225.xyz/TVOD/1000000006000270007/ystenlive/index.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技
+http://itv.2025225.xyz/TVOD/1000000006000270001/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球
 http://itv.2025225.xyz/TVOD/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="数字频道",睛彩青少
+http://itv.2025225.xyz/TVOD/1000000006000270007/ystenlive/index.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
+http://itv.2025225.xyz/TVOD/1000000006000270008/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
 http://itv.2025225.xyz/TVOD/1000000006000032327/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
