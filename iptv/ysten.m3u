@@ -50,6 +50,8 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=7114647837765104058&channel-id=h
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000280004&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000280003&channel-id=ystenlive&livemode=1&stbId=iptv
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000280001&channel-id=ystenlive&livemode=1&stbId=iptv
 
