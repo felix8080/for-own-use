@@ -171,18 +171,8 @@ http://itv.2025225.xyz/TVOD/1000000006000270002/ystenlive/index.m3u8
 http://itv.2025225.xyz/TVOD/1000000006000270007/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
 http://itv.2025225.xyz/TVOD/1000000006000270008/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
-http://itv.2025225.xyz/TVOD/1000000006000032327/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://itv.2025225.xyz/TVOD/1000000001000003775/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="数字频道",求索动物
-http://itv.2025225.xyz/TVOD/6000000002000010046/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="数字频道",求索纪录
-http://itv.2025225.xyz/TVOD/6000000002000032052/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.cn/tv/求索科学.png" group-title="数字频道",求索科学
-http://itv.2025225.xyz/TVOD/6000000002000032344/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="数字频道",求索生活
-http://itv.2025225.xyz/TVOD/6000000002000003382/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV01.png" group-title="数字频道",NewTV军事评论
 http://itv.2025225.xyz/TVOD/5822616274253344775/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV02.png" group-title="数字频道",NewTV军旅剧场
@@ -207,8 +197,8 @@ http://itv.2025225.xyz/TVOD/7820874641606664941/ystenlive/index.m3u8
 http://itv.2025225.xyz/TVOD/1000000004000019008/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="数字频道",NewTV欢乐剧场
 http://itv.2025225.xyz/TVOD/1000000005000266012/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武搏世界
-http://itv.2025225.xyz/TVOD/2000000003000000007/hnbblive/index.m3u8
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武搏世界
+http://itv.2025225.xyz/TVOD/bokesen/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV15.png" group-title="数字频道",NewTV潮妈辣婆
 http://itv.2025225.xyz/TVOD/6516734029835465177/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV16.png" group-title="数字频道",NewTV炫舞未来
