@@ -181,57 +181,57 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000270007&channel-id=y
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000270008&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000001000003775&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV01.png" group-title="数字频道",NewTV军事评论
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV01.png" group-title="数字频道",军事评论
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5822616274253344775&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV02.png" group-title="数字频道",NewTV军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV02.png" group-title="数字频道",军旅剧场
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=7485075951068666323&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV03.png" group-title="数字频道",NewTV动作电影
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV03.png" group-title="数字频道",动作电影
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000004000018653&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV04.png" group-title="数字频道",NewTV古装剧场
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV04.png" group-title="数字频道",古装剧场
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6859053933687922163&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV05.png" group-title="数字频道",NewTV家庭剧场
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV05.png" group-title="数字频道",家庭剧场
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6316377948248689070&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV07.png" group-title="数字频道",NewTV中国功夫
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV07.png" group-title="数字频道",中国功夫
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5897056882324761054&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV08.png" group-title="数字频道",NewTV农业致富
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV08.png" group-title="数字频道",农业致富
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6193684637634073625&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV09.png" group-title="数字频道",NewTV东北热剧
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV09.png" group-title="数字频道",东北热剧
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000005000266013&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV10.png" group-title="数字频道",NewTV惊悚悬疑
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV10.png" group-title="数字频道",惊悚悬疑
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=7151256057701199617&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV11.png" group-title="数字频道",NewTV怡伴健康
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV11.png" group-title="数字频道",怡伴健康
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=7820874641606664941&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV12.png" group-title="数字频道",NewTV明星大片
+#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV12.png" group-title="数字频道",明星大片
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000004000019008&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="数字频道",NewTV欢乐剧场
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="数字频道",欢乐剧场
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000005000266012&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武搏世界
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",武搏世界
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=bokesen&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV15.png" group-title="数字频道",NewTV潮妈辣婆
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV15.png" group-title="数字频道",潮妈辣婆
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6516734029835465177&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV16.png" group-title="数字频道",NewTV炫舞未来
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV16.png" group-title="数字频道",炫舞未来
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000001000000515&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV17.png" group-title="数字频道",NewTV爱情喜剧
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV17.png" group-title="数字频道",爱情喜剧
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=8393829412396288037&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV18.png" group-title="数字频道",NewTV精品体育
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV18.png" group-title="数字频道",精品体育
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6460382139625130259&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV19.png" group-title="数字频道",NewTV精品大剧
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV19.png" group-title="数字频道",精品大剧
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=7882297361445410858&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV20.png" group-title="数字频道",NewTV精品纪录
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV20.png" group-title="数字频道",精品纪录
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6298506997017621594&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV21.png" group-title="数字频道",NewTV金牌综艺
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV21.png" group-title="数字频道",金牌综艺
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6399725674632152632&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV22.png" group-title="数字频道",NewTV超级体育
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV22.png" group-title="数字频道",超级体育
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000001000009601&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV23.png" group-title="数字频道",NewTV超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV23.png" group-title="数字频道",超级电影
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000003000012426&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV24.png" group-title="数字频道",NewTV超级综艺
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV24.png" group-title="数字频道",超级综艺
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000268002&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="数字频道",NewTV超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV25.png" group-title="数字频道",超级电视剧
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000268003&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV34.png" group-title="数字频道",NewTV魅力潇湘
+#EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV34.png" group-title="数字频道",魅力潇湘
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000001000006197&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV39.png" group-title="数字频道",NewTV精品萌宠
+#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV39.png" group-title="数字频道",精品萌宠
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000032328&channel-id=ystenlive&livemode=1&stbId=iptv
 
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕视频1
