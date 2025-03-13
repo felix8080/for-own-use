@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 webview://https://yangshipin.cn/tv/home?pid=600001859
