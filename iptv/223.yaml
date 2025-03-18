@@ -395,35 +395,88 @@ dns:
       - https://dns.cloudflare.com/dns-query
       - https://dns.google/dns-query
 proxies:
-  - name: vless+ws+tls-zycauppe
-    type: vless
-    server: gfw.2025225.xyz
-    port: 443
-    uuid: 591fe414-3f84-4363-827f-fbc5a9954285
-    tls: true
-    client-fingerprint: chrome
-    servername: gfw.2025225.xyz
-    network: ws
-    ws-opts:
-      path: /vless01
-      headers:
-        host: gfw.2025225.xyz
-    tfo: false
-    skip-cert-verify: false
-  - name: vless+tcp+reality-pph8qzeu
-    type: vless
-    server: gfw.2025225.xyz
-    port: 13152
-    uuid: f2829150-f3b5-4d76-84a8-4065a458d28f
-    tls: true
-    client-fingerprint: chrome
-    servername: yahoo.com
-    network: tcp
-    reality-opts:
-      public-key: nB3feyKwk9h9kkStY4SQWHYPqD8ZqazbXrKUt-utMGs
-      short-id: 7e
-    tfo: false
-    skip-cert-verify: false
+- name: vless-reality-vision-lurkwx               
+  type: vless
+  server: 188.68.250.202                           
+  port: 15208                                
+  uuid: 2f704e6b-2cb4-41f2-8156-ae8611b8ec16   
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: lurkwx.serv00.net                 
+  reality-opts: 
+    public-key: aKlQDxWKXLEmKwK_mpebytKyAEI4A80hTu_vPSYvIgU                      
+  client-fingerprint: chrome                  
+
+- name: vmess-ws-lurkwx                         
+  type: vmess
+  server: 188.68.250.202                       
+  port: 16787                                     
+  uuid: 2f704e6b-2cb4-41f2-8156-ae8611b8ec16       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: false
+  network: ws
+  servername: www.bing.com                    
+  ws-opts:
+    path: "/2f704e6b-2cb4-41f2-8156-ae8611b8ec16-vm"                             
+    headers:
+      Host: www.bing.com                     
+
+- name: hysteria2-lurkwx                            
+  type: hysteria2                                      
+  server: 188.68.250.202                               
+  port: 31535                                
+  password: 2f704e6b-2cb4-41f2-8156-ae8611b8ec16                          
+  alpn:
+    - h3
+  sni: www.bing.com                               
+  skip-cert-verify: true
+  fast-open: true
+
+- name: vless-reality-vision-jzrrdccvq               
+  type: vless
+  server: 188.68.250.202                           
+  port: 17848                                
+  uuid: f00bc200-c46f-4109-99fb-a1dd2ef79dde   
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: jzrrdccvq.serv00.net                 
+  reality-opts: 
+    public-key: zUIKtMR_SMbe7Yt-D2CEjhGO6UVsyUF-xGPBRmUCzAQ                      
+  client-fingerprint: chrome                  
+
+- name: vmess-ws-jzrrdccvq                         
+  type: vmess
+  server: 188.68.250.202                       
+  port: 30054                                     
+  uuid: f00bc200-c46f-4109-99fb-a1dd2ef79dde       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: false
+  network: ws
+  servername: www.bing.com                    
+  ws-opts:
+    path: "/f00bc200-c46f-4109-99fb-a1dd2ef79dde-vm"                             
+    headers:
+      Host: www.bing.com                     
+
+- name: hysteria2-jzrrdccvq                            
+  type: hysteria2                                      
+  server: 188.68.250.202                               
+  port: 43422                                
+  password: f00bc200-c46f-4109-99fb-a1dd2ef79dde                          
+  alpn:
+    - h3
+  sni: www.bing.com                               
+  skip-cert-verify: true
+  fast-open: true
+
 proxy-groups:
   - type: select
     name: 🚀 节点选择
