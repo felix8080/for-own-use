@@ -1,0 +1,187 @@
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml" atchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="4K频道",CCTV4K
+https://itv.2025225.xyz/gaoma/cctv4k.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="4K频道",CCTV8K
+https://itv.2025225.xyz/gaoma/cctv8k.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="4K频道",CCTV16 4K
+https://itv.2025225.xyz/gaoma/cctv16_4k.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
+https://itv.2025225.xyz/TVOD/5000000004000002226.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
+https://itv.2025225.xyz/TVOD/5000000011000031101.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV3
+https://itv.2025225.xyz/TVOD/5000000004000008883.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV4
+https://itv.2025225.xyz/TVOD/5000000011000031102.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
+https://itv.2025225.xyz/TVOD/5000000004000008885.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道",CCTV5+
+https://itv.2025225.xyz/TVOD/5000000011000031127.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
+https://itv.2025225.xyz/TVOD/5000000004000008886.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
+https://itv.2025225.xyz/TVOD/5000000011000031104.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV8
+https://itv.2025225.xyz/TVOD/5000000004000008888.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV9
+https://itv.2025225.xyz/TVOD/5000000010000018384.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
+https://itv.2025225.xyz/TVOD/5000000004000012827.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV11
+https://itv.2025225.xyz/TVOD/5000000011000031106.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV12
+https://itv.2025225.xyz/TVOD/5000000011000031107.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道",CCTV13
+https://itv.2025225.xyz/TVOD/5000000011000031108.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV14
+https://itv.2025225.xyz/TVOD/5000000004000006673.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
+https://itv.2025225.xyz/TVOD/5000000011000031109.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
+https://itv.2025225.xyz/TVOD/5000000008000023253.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16 4K
+https://itv.2025225.xyz/TVOD/5000000008000023254.m3u8?token=iptv
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
+https://itv.2025225.xyz/TVOD/1000000006000268004.m3u8?token=iptv
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+https://itv.2025225.xyz/phoenix/fhzx.flv?token=iptv
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="卫视频道",凤凰中文
+https://itv.2025225.xyz/phoenix/fhzw.flv?token=iptv
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="卫视频道",凤凰香港
+https://itv.2025225.xyz/phoenix/fhhk.flv?token=iptv
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
+https://itv.2025225.xyz/TVOD/5000000004000031556.m3u8?token=iptv
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
+https://itv.2025225.xyz/TVOD/5000000004000014098.m3u8?token=iptv
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://itv.2025225.xyz/TVOD/5000000004000006692.m3u8?token=iptv
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://itv.2025225.xyz/TVOD/5000000004000019351.m3u8?token=iptv
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://itv.2025225.xyz/TVOD/5000000004000007275.m3u8?token=iptv
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://itv.2025225.xyz/TVOD/5000000004000023002.m3u8?token=iptv
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道",东南卫视
+https://itv.2025225.xyz/TVOD/5000000001000005829.m3u8?token=iptv
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+https://itv.2025225.xyz/TVOD/5000000006000040021.m3u8?token=iptv
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
+https://itv.2025225.xyz/TVOD/5000000010000030417.m3u8?token=iptv
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道",广西卫视
+https://itv.2025225.xyz/TVOD/5000000011000031118.m3u8?token=iptv
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视频道",贵州卫视
+https://itv.2025225.xyz/TVOD/5000000004000025843.m3u8?token=iptv
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道",海南卫视
+https://itv.2025225.xyz/TVOD/5000000004000006211.m3u8?token=iptv
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道",河北卫视
+https://itv.2025225.xyz/TVOD/5000000006000040016.m3u8?token=iptv
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视频道",河南卫视
+https://itv.2025225.xyz/TVOD/5000000011000031119.m3u8?token=iptv
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://itv.2025225.xyz/TVOD/5000000004000025203.m3u8?token=iptv
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://itv.2025225.xyz/TVOD/5000000004000014954.m3u8?token=iptv
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道",吉林卫视
+https://itv.2025225.xyz/TVOD/5000000011000031117.m3u8?token=iptv
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道",江西卫视
+https://itv.2025225.xyz/TVOD/5000000001000032154.m3u8?token=iptv
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://itv.2025225.xyz/TVOD/5000000004000011671.m3u8?token=iptv
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道",青海卫视
+https://itv.2025225.xyz/TVOD/1000000002000013359.m3u8?token=iptv
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道",山东卫视
+https://itv.2025225.xyz/TVOD/5000000004000020424.m3u8?token=iptv
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://itv.2025225.xyz/TVOD/5000000004000007410.m3u8?token=iptv
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视
+https://itv.2025225.xyz/TVOD/5000000004000006119.m3u8?token=iptv
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视频道",天津卫视
+https://itv.2025225.xyz/TVOD/5000000004000006827.m3u8?token=iptv
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视频道",云南卫视
+https://itv.2025225.xyz/TVOD/5000000011000031120.m3u8?token=iptv
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道",重庆卫视
+https://itv.2025225.xyz/TVOD/5000000004000025797.m3u8?token=iptv
+#EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="咪视通",睛彩广场舞
+https://itv.2025225.xyz/TVOD/3000000020000011523.m3u8?token=iptv
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="咪视通",睛彩青少
+https://itv.2025225.xyz/TVOD/3000000020000011525.m3u8?token=iptv
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="咪视通",睛彩竞技
+https://itv.2025225.xyz/TVOD/3000000020000011528.m3u8?token=iptv
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="咪视通",睛彩篮球
+https://itv.2025225.xyz/TVOD/3000000020000011529.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-1
+https://itv.2025225.xyz/TVOD/3000000001000005308.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-2
+https://itv.2025225.xyz/TVOD/3000000001000005969.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-3
+https://itv.2025225.xyz/TVOD/3000000001000007218.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-4
+https://itv.2025225.xyz/TVOD/3000000001000008001.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-5
+https://itv.2025225.xyz/TVOD/3000000001000008176.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-6
+https://itv.2025225.xyz/TVOD/3000000001000008379.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-7
+https://itv.2025225.xyz/TVOD/3000000001000010129.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-8
+https://itv.2025225.xyz/TVOD/3000000001000010948.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-9
+https://itv.2025225.xyz/TVOD/3000000001000028638.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-10
+https://itv.2025225.xyz/TVOD/3000000001000031494.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-11
+https://itv.2025225.xyz/TVOD/3000000010000005837.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-12
+https://itv.2025225.xyz/TVOD/3000000020000011518.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-13
+https://itv.2025225.xyz/TVOD/3000000020000011519.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-14
+https://itv.2025225.xyz/TVOD/3000000020000011520.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-15
+https://itv.2025225.xyz/TVOD/3000000020000011521.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-16
+https://itv.2025225.xyz/TVOD/3000000020000011522.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-24
+https://itv.2025225.xyz/TVOD/3000000010000000097.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-25
+https://itv.2025225.xyz/TVOD/3000000010000002019.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-26
+https://itv.2025225.xyz/TVOD/3000000010000002809.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-27
+https://itv.2025225.xyz/TVOD/3000000010000003915.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-28
+https://itv.2025225.xyz/TVOD/3000000010000004193.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-29
+https://itv.2025225.xyz/TVOD/3000000010000006077.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-30
+https://itv.2025225.xyz/TVOD/3000000010000006658.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-31
+https://itv.2025225.xyz/TVOD/3000000010000009788.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-32
+https://itv.2025225.xyz/TVOD/3000000010000010833.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-33
+https://itv.2025225.xyz/TVOD/3000000010000011297.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-34
+https://itv.2025225.xyz/TVOD/3000000010000011518.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-35
+https://itv.2025225.xyz/TVOD/3000000010000012558.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-36
+https://itv.2025225.xyz/TVOD/3000000010000012616.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-37
+https://itv.2025225.xyz/TVOD/3000000010000015470.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-38
+https://itv.2025225.xyz/TVOD/3000000010000015560.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-39
+https://itv.2025225.xyz/TVOD/3000000010000017678.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-40
+https://itv.2025225.xyz/TVOD/3000000010000019839.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-41
+https://itv.2025225.xyz/TVOD/3000000010000021904.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-42
+https://itv.2025225.xyz/TVOD/3000000010000023434.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-43
+https://itv.2025225.xyz/TVOD/3000000010000025380.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-44
+https://itv.2025225.xyz/TVOD/3000000010000027691.m3u8?token=iptv
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-45
+https://itv.2025225.xyz/TVOD/3000000010000031669.m3u8?token=iptv
