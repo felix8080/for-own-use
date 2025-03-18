@@ -408,7 +408,6 @@ proxies:
   reality-opts: 
     public-key: aKlQDxWKXLEmKwK_mpebytKyAEI4A80hTu_vPSYvIgU                      
   client-fingerprint: chrome                  
-
 - name: vmess-ws-lurkwx                         
   type: vmess
   server: 188.68.250.202                       
@@ -424,7 +423,6 @@ proxies:
     path: "/2f704e6b-2cb4-41f2-8156-ae8611b8ec16-vm"                             
     headers:
       Host: www.bing.com                     
-
 - name: hysteria2-lurkwx                            
   type: hysteria2                                      
   server: 188.68.250.202                               
@@ -435,7 +433,6 @@ proxies:
   sni: www.bing.com                               
   skip-cert-verify: true
   fast-open: true
-
 - name: vless-reality-vision-jzrrdccvq               
   type: vless
   server: 188.68.250.202                           
@@ -449,7 +446,6 @@ proxies:
   reality-opts: 
     public-key: zUIKtMR_SMbe7Yt-D2CEjhGO6UVsyUF-xGPBRmUCzAQ                      
   client-fingerprint: chrome                  
-
 - name: vmess-ws-jzrrdccvq                         
   type: vmess
   server: 188.68.250.202                       
@@ -465,7 +461,6 @@ proxies:
     path: "/f00bc200-c46f-4109-99fb-a1dd2ef79dde-vm"                             
     headers:
       Host: www.bing.com                     
-
 - name: hysteria2-jzrrdccvq                            
   type: hysteria2                                      
   server: 188.68.250.202                               
@@ -476,7 +471,6 @@ proxies:
   sni: www.bing.com                               
   skip-cert-verify: true
   fast-open: true
-
 proxy-groups:
   - type: select
     name: 🚀 节点选择
@@ -484,13 +478,21 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - name: ⚡ 自动选择
     type: url-test
     proxies:
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
     url: https://www.gstatic.com/generate_204
     interval: 300
     lazy: false
@@ -501,8 +503,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 💬 AI 服务
     proxies:
@@ -510,8 +516,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 📺 哔哩哔哩
     proxies:
@@ -519,8 +529,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 📹 油管视频
     proxies:
@@ -528,8 +542,13 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🔍 谷歌服务
     proxies:
@@ -537,8 +556,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🏠 私有网络
     proxies:
@@ -546,8 +569,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🔒 国内服务
     proxies:
@@ -555,8 +582,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 📲 电报消息
     proxies:
@@ -564,8 +595,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🐱 Github
     proxies:
@@ -573,8 +608,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: Ⓜ️ 微软服务
     proxies:
@@ -582,8 +621,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🍏 苹果服务
     proxies:
@@ -591,8 +634,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🌐 社交媒体
     proxies:
@@ -600,8 +647,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🎬 流媒体
     proxies:
@@ -609,8 +660,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🎮 游戏平台
     proxies:
@@ -618,8 +673,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 📚 教育资源
     proxies:
@@ -627,8 +686,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 💰 金融服务
     proxies:
@@ -636,8 +699,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: ☁️ 云服务
     proxies:
@@ -645,8 +712,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🌐 非中国
     proxies:
@@ -654,8 +725,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
   - type: select
     name: 🐟 漏网之鱼
     proxies:
@@ -663,8 +738,12 @@ proxy-groups:
       - DIRECT
       - REJECT
       - ⚡ 自动选择
-      - vless+ws+tls-zycauppe
-      - vless+tcp+reality-pph8qzeu
+      - vless-reality-vision-lurkwx
+      - vmess-ws-lurkwx
+      - hysteria2-lurkwx
+      - vless-reality-vision-jzrrdccvq
+      - vmess-ws-jzrrdccvq
+      - hysteria2-jzrrdccvq
 rules:
   - RULE-SET,category-ads-all,🛑 广告拦截
   - RULE-SET,category-ai-chat-!cn,💬 AI 服务
