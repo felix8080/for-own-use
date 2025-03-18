@@ -543,7 +543,6 @@ proxy-groups:
       - REJECT
       - ⚡ 自动选择
       - vless-reality-vision-lurkwx
-      - vless-reality-vision-lurkwx
       - vmess-ws-lurkwx
       - hysteria2-lurkwx
       - vless-reality-vision-jzrrdccvq
