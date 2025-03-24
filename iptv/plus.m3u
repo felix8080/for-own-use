@@ -196,6 +196,10 @@ https://itv.2025225.xyz/TVOD/6307875884530512195/hnbblive/index.m3u8
 https://itv.2025225.xyz/TVOD/7884242846753128038/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.cn/tv/湖南电视剧.png" group-title="地方频道",湖南电视剧
 https://itv.2025225.xyz/TVOD/8765482907954673867/hnbblive/index.m3u8
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="地方频道",茶频道
+https://itv.2025225.xyz/TVOD/5000000011000031209/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="地方频道",快乐垂钓
+https://itv.2025225.xyz/TVOD/5000000011000031206/bestzb/index.m3u8
 
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技
 https://itv.2025225.xyz/TVOD/1000000006000270001/ystenlive/index.m3u8
@@ -205,6 +209,8 @@ https://itv.2025225.xyz/TVOD/1000000006000270002/ystenlive/index.m3u8
 https://itv.2025225.xyz/TVOD/1000000006000270007/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
 https://itv.2025225.xyz/TVOD/1000000006000270008/ystenlive/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
+https://itv.2025225.xyz/TVOD/1000000006000032327/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 https://itv.2025225.xyz/TVOD/1000000001000003775/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="数字频道",求索动物
