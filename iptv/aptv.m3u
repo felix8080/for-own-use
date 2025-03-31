@@ -126,27 +126,27 @@ http://148.135.93.213/phenix.php?id=fhzw
 http://148.135.93.213/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="港台频道",TVB翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港台频道",无线新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港台频道",TVB新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/TVB明珠台.png" group-title="港台频道",TVB明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="港台频道",TVB星河台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="港台频道",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
+http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/PopC.png" group-title="港台频道",PopC
+http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="viutv" tvg-logo="https://live.fanmingming.cn/tv/viutv.png" group-title="港台频道",ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Hoy77.png" group-title="港台频道",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png" group-title="港台频道",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" group-title="港台频道",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/RTHK33.png" group-title="港台频道",RTHK33
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/mydy.png" group-title="港台频道",美亚电影
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/mydy.png" group-title="港台频道",美亚电影台
 http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png" group-title="港台频道",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png" group-title="港台频道",澳视澳门台
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://logo.doube.eu.org/中视.png" group-title="港台频道",中视
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
@@ -164,9 +164,9 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://logo.doube.eu.org/华视.png" group-title="港台频道",华视
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.doube.eu.org/三立新闻.png" group-title="港台频道",三立新闻iNEWS
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="港台频道",三立新闻台
 http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台.png" group-title="台湾频道",寰宇新闻台
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台.png" group-title="港台频道",寰宇新闻台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="地方频道",重温经典
