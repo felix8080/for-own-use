@@ -176,7 +176,7 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6307875884530512195&channel-id=h
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=7884242846753128038&channel-id=hnbblive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.cn/tv/湖南电视剧.png" group-title="地方频道",湖南电视剧
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=8765482907954673867&channel-id=hnbblive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="地方频道",茶频道
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="地方频道",茶频道
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000011000031209&channel-id=bestzb&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="地方频道",金鹰纪实
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000011000031203&channel-id=bestzb&livemode=1&stbId=iptv
@@ -231,7 +231,7 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=7820874641606664941&channel-id=y
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000004000019008&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="数字频道",NewTV欢乐剧场
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000005000266012&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="武博世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武博世界
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武搏世界
 http://gslbserv.itv.cmvideo.cn:80/bokesen&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV15.png" group-title="数字频道",NewTV潮妈辣婆
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6516734029835465177&channel-id=ystenlive&livemode=1&stbId=iptv
@@ -257,8 +257,6 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000268002&channel-id=y
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000268003&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV34.png" group-title="数字频道",NewTV魅力潇湘
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000001000006197&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="精彩推荐" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV38.png" group-title="数字频道",NewTV精彩推荐
-http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5595720619887440144&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV39.png" group-title="数字频道",NewTV精品萌宠
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000032328&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱谍战.png" group-title="数字频道",IHOT爱谍战
