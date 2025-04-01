@@ -232,7 +232,7 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000004000019008&channel-id=y
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV13.png" group-title="数字频道",NewTV欢乐剧场
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000005000266012&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV14.png" group-title="数字频道",NewTV武搏世界
-http://gslbserv.itv.cmvideo.cn:80/bokesen&channel-id=ystenlive&livemode=1&stbId=iptv
+http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=bokesen&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV15.png" group-title="数字频道",NewTV潮妈辣婆
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=6516734029835465177&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV16.png" group-title="数字频道",NewTV炫舞未来
