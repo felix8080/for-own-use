@@ -3,7 +3,7 @@
         {
             "name": "itv",
             "type": 0,
-            "url": "https://tv.2025225.xyz/itv.txt",
+            "url": "https://tv.2025225.xyz/okitv.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
