@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml" catchup="append" catchup-replace="livemode=1,livemode=4" catchup-source="&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000001000021973&channel-id=ystenlive&livemode=1&stbId=iptv
@@ -50,7 +50,7 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=7114647837765104058&channel-id=h
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000280004&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000280003&channel-id=ystenlive&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000280002&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000006000280001&channel-id=ystenlive&livemode=1&stbId=iptv
@@ -150,16 +150,12 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000004000019624&channel-id=y
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000001000028380&channel-id=ystenlive&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="地方频道",上海都市
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000010000018926&channel-id=bestzb&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="上视新闻" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="地方频道",上视新闻
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="地方频道",上视新闻
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000011000031110&channel-id=bestzb&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="地方频道",东方影视
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000010000032212&channel-id=bestzb&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="地方频道",上海外语
-http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000010000030951&channel-id=bestzb&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="地方频道",五星体育
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000010000017540&channel-id=bestzb&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="地方频道",纪实人文
-http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000004000010282&channel-id=bestzb&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="地方频道",法治天地
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=9001547084732463424&channel-id=bestzb&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="地方频道",东方财经
@@ -311,8 +307,6 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000002000029972&channel-id=b
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000011000031112&channel-id=bestzb&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="数字频道",SiTV魅力足球
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000011000031207&channel-id=bestzb&livemode=1&stbId=iptv
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.cn/tv/七彩戏剧.png" group-title="数字频道",SiTV七彩戏剧
-http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000011000031116&channel-id=bestzb&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="数字频道",SiTV生活时尚
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=5000000002000019634&channel-id=bestzb&livemode=1&stbId=iptv
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="数字频道",SiTV游戏风云
