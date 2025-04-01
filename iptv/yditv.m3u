@@ -370,12 +370,3 @@ https://php.2025225.xyz/yditv.php?Contentid=3000000010000002809&channel-id=Fifas
 https://php.2025225.xyz/yditv.php?Contentid=3000000010000015560&channel-id=FifastbLive
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道" http-user-agent="iPhone",咪咕视频30
 https://php.2025225.xyz/yditv.php?Contentid=3000000010000023434&channel-id=FifastbLive
-
-#EXTINF:-1 tvg-name="LoveNature" tvg-logo="https://live.fanmingming.cn/tv/LoveNature.png" group-title="4K8K频道",LoveNature4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="Loupe" tvg-logo="https://live.fanmingming.cn/tv/loupe.png" group-title="4K8K频道",Loupe4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-name="Fashion" tvg-logo="https://live.fanmingming.cn/tv/fashiontv.png" group-title="4K8K频道",Fashion4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4K8K频道",北京纪实科教8K
-https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
