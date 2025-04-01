@@ -34,12 +34,12 @@ CGTN,https://php.2025225.xyz/smart.php?id=CGTN
 东方卫视,https://php.2025225.xyz/smart.php?id=dongfangweishi_twn
 
 香港频道,#genre#
-凤凰卫视,https://php.2025225.xyz/smart.php?id=phoenixtv_hd
-凤凰资讯,https://php.2025225.xyz/smart.php?id=phoenixinfo_hd
-凤凰香港,https://php.2025225.xyz/smart.php?id=hkphoenix_twn
+凤凰卫视中文台,https://php.2025225.xyz/smart.php?id=phoenixtv_hd
+凤凰卫视资讯台,https://php.2025225.xyz/smart.php?id=phoenixinfo_hd
+凤凰卫视香港台,https://php.2025225.xyz/smart.php?id=hkphoenix_twn
 翡翠台,https://php.2025225.xyz/smart.php?id=jade_twn
-翡翠台2,https://php.2025225.xyz/smart.php?id=Jade_xue
-iNews 新闻台,https://php.2025225.xyz/smart.php?id=inews_twn
+翡翠台,https://php.2025225.xyz/smart.php?id=Jade_xue
+iNews,https://php.2025225.xyz/smart.php?id=inews_twn
 TVBJ2,https://php.2025225.xyz/smart.php?id=j2_twn
 TVB明珠台,https://php.2025225.xyz/smart.php?id=pearl_twn
 HOY资讯台,https://php.2025225.xyz/smart.php?id=hoycaijing_twn
