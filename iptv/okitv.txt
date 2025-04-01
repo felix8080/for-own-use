@@ -477,7 +477,7 @@ IHOT爱历史,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?chann
 IHOT爱旅行,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 IHOT爱旅行,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 IHOT爱体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-IHOT体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+IHOT爱体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 IHOT爱赛车,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 IHOT爱赛车,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 IHOT爱浪漫,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=toShengfen&mode=1&$8M FHD
