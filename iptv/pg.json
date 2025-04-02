@@ -72,7 +72,7 @@
 			"key": "非凡",
 			"name": "非凡",
 			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://api.ffzyapi.com/api.php/provide/vod/?",
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://api.ffzyapi.com/api.php/provide/vod/",
 			"playerType": 1,
 			"searchable": 1,
 			"changeable": 1,
