@@ -16,7 +16,7 @@
 		},
 		{
 			"key": "Wogg",
-			"name": "玩偶|网盘",
+			"name": "玩偶┃网盘",
 			"type": 3,
 			"api": "csp_Wogg",
 			"quickSearch": 1,
@@ -28,7 +28,7 @@
 		},
 		{
 			"key": "蜡笔网盘",
-			"name": "蜡笔|网盘",
+			"name": "蜡笔┃网盘",
 			"type": 3,
 			"api": "csp_Wobg",
 			"quickSearch": 1,
@@ -40,7 +40,7 @@
 		},
 		{
 			"key": "量子",
-			"name": "量子|资源",
+			"name": "量子┃资源",
 			"type": 1,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/",
 			"playerType": 1,
