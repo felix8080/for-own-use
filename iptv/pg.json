@@ -44,7 +44,7 @@
             "type": 3,
             "api": "csp_Guazi",
             "quickSearch": 1,
-            "changeable": 1,
+            "changeable": 0,
             "filterable": 1,
             "timeout": 60,
             "ext": "",
@@ -55,8 +55,9 @@
             "name": "黑木耳",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
+            "playerType": 1,
+			"searchable": 1,
+			"changeable": 1
         },
 		{
 			"key": "量子",
@@ -66,6 +67,20 @@
 			"playerType": 1,
 			"searchable": 1,
 			"changeable": 1
+		},
+		{
+			"key": "非凡",
+			"name": "非凡",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://api.ffzyapi.com/api.php/provide/vod/?",
+			"playerType": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"categories": [
+				"电影片",
+				"连续剧",
+				"大陆综艺"
+			]
 		}
     ],
     "lives": [
