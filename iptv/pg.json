@@ -27,6 +27,18 @@
             "ext": "https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$https://pg.banye.tech:7777/pg/lib/wogg.json$$$WOGG",
             "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
         },
+		{
+            "key": "蜡笔网盘",
+            "name": "蜡笔|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$https://www.goimg.asia/$$$noproxy$$$1$$$https://pg.banye.tech:7777/pg/lib/wogg.json$$$LABI",
+            "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
+        },
         {
             "key": "Guazi",
             "name": "瓜子|App",
@@ -39,6 +51,31 @@
             "ext": "",
             "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
         },
+		{
+			"key": "NanGua",
+			"name": "南瓜|弹幕",
+			"type": 3,
+			"api": "csp_NanGua",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "null$$$1",
+            "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
+        },
+		{
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+		},
+		{
+			"key": "追剧",
+			"name": "追剧┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"ext": "http://app.kzjtv.com$$$null$$$1",
+            "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
+        },
         {
             "key": "黑木耳",
             "name": "黑木耳",
@@ -46,13 +83,23 @@
             "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
-        }
+        },
+		{
+			"key": "量子",
+			"name": "量子",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://cj.lziapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"playerType": 1,
+			"searchable": 1,
+			"changeable": 1
+		}
     ],
     "lives": [
         {
             "name": "itv",
             "type": 0,
-            "url": "https://tv.2025225.xyz/itv.txt",
+            "url": "https://tv.2025225.xyz/itv.m3u",
             "ua": "okhttp/3.15"
         },
 		{
@@ -73,6 +120,8 @@
             "url": "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
             "core": {
                 "auth": "local://tvbus",
+                "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+                "pass": "https://epg.112114.xyz/logo/{name}.png",
                 "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
                 "so": "https://web.banye.tech:7777/tvbus/tvbus.so",
                 "pkg": "com.svc.vlive.home.ytv9x",
