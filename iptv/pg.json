@@ -1,5 +1,4 @@
 {
-	"logo": "https://live.fanmingming.cn/tv/凤凰中文.png",
     "spider": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa",
     "wallpaper": "https://bing.ee123.net/img/rand",
     "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
@@ -51,31 +50,6 @@
             "ext": "",
             "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
         },
-		{
-			"key": "NanGua",
-			"name": "南瓜|弹幕",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "null$$$1",
-            "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
-        },
-		{
-			"key": "天天",
-			"name": "天天┃App",
-			"type": 3,
-			"api": "csp_TTian",
-			"ext": "http://op.ysdqjs.cn$$$null$$$1"
-		},
-		{
-			"key": "追剧",
-			"name": "追剧┃App",
-			"type": 3,
-			"api": "csp_TTian",
-			"ext": "http://app.kzjtv.com$$$null$$$1",
-            "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
-        },
         {
             "key": "黑木耳",
             "name": "黑木耳",
@@ -88,8 +62,7 @@
 			"key": "量子",
 			"name": "量子",
 			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://cj.lziapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/null/https://cj.lziapi.com/api.php/provide/vod/",
 			"playerType": 1,
 			"searchable": 1,
 			"changeable": 1
