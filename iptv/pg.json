@@ -53,18 +53,26 @@
             "name": "itv",
             "type": 0,
             "url": "https://tv.2025225.xyz/itv.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png"
+            "ua": "okhttp/3.15"
+        },
+		{
+            "name": "aptv",
+            "type": 0,
+            "url": "https://tv.2025225.xyz/aptv.m3u",
+            "ua": "iPhone"
+        },
+		{
+            "name": "aktv",
+            "type": 0,
+            "url": "https://aktv.space/live.m3u",
+            "ua": "okhttp/3.15"
         },
         {
             "name": "yogurt",
             "type": 0,
-            "url": "https://tv.2025225.xyz/yogurt.txt",
+            "url": "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
             "core": {
                 "auth": "local://tvbus",
-                "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-                "pass": "https://epg.112114.xyz/logo/{name}.png",
                 "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
                 "so": "https://web.banye.tech:7777/tvbus/tvbus.so",
                 "pkg": "com.svc.vlive.home.ytv9x",
