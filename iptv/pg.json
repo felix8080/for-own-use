@@ -38,28 +38,6 @@
             "ext": "https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$https://www.goimg.asia/$$$noproxy$$$1$$$https://pg.banye.tech:7777/pg/lib/wogg.json$$$LABI",
             "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
         },
-        {
-            "key": "Guazi",
-            "name": "瓜子|App",
-            "type": 3,
-            "api": "csp_Guazi",
-            "playerType": 1,
-			"searchable": 1,
-			"changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "",
-            "jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
-        },
-        {
-            "key": "黑木耳",
-            "name": "黑木耳|资源",
-            "type": 1,
-            "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-            "playerType": 1,
-			"searchable": 1,
-			"changeable": 1
-        },
 		{
 			"key": "量子",
 			"name": "量子|资源",
@@ -67,32 +45,22 @@
 			"api": "https://cj.lziapi.com/api.php/provide/vod/",
 			"playerType": 1,
 			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "非凡",
-			"name": "非凡|资源",
-			"type": 1,
-			"api": "http://api.ffzyapi.com/api.php/provide/vod/",
-			"playerType": 1,
-			"searchable": 1,
 			"changeable": 1,
+            "filterable": 1,
 			"categories": [
+				"推荐",
 				"大陆综艺",
+				"日韩综艺",
 				"国产剧",
 				"韩国剧",
 				"日本剧",
-				"海外剧"
+				"海外剧",
+				"喜剧片",
+				"动作片",
+				"剧情片",
+				"国产动漫",
+				"日韩动漫"
 			]
-		},
-		{
-			"key": "金鹰",
-			"name": "金鹰|资源",
-			"type": 1,
-			"api": "https://jyzyapi.com/provide/vod/",
-			"playerType": 1,
-			"searchable": 0,
-			"changeable": 1
 		}
     ],
     "lives": [
