@@ -45,7 +45,7 @@
             "api": "csp_Guazi",
             "playerType": 1,
 			"searchable": 1,
-			"changeable": 1,
+			"changeable": 0,
             "filterable": 1,
             "timeout": 60,
             "ext": "",
@@ -53,16 +53,16 @@
         },
         {
             "key": "黑木耳",
-            "name": "黑木耳",
+            "name": "黑木耳|资源",
             "type": 1,
             "api": "https://json.heimuer.xyz/api.php/provide/vod/",
             "playerType": 1,
 			"searchable": 1,
-			"changeable": 1
+			"changeable": 0
         },
 		{
 			"key": "量子",
-			"name": "量子",
+			"name": "量子|资源",
 			"type": 1,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/",
 			"playerType": 1,
@@ -71,26 +71,21 @@
 		},
 		{
 			"key": "非凡",
-			"name": "非凡",
+			"name": "非凡|资源",
 			"type": 1,
 			"api": "http://api.ffzyapi.com/api.php/provide/vod/",
 			"playerType": 1,
 			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"电影片",
-				"连续剧",
-				"大陆综艺"
-			]
+			"changeable": 0
 		},
 		{
 			"key": "金鹰",
-			"name": "金鹰",
+			"name": "金鹰|资源",
 			"type": 1,
 			"api": "https://jyzyapi.com/provide/vod/",
 			"playerType": 1,
 			"searchable": 1,
-			"changeable": 1
+			"changeable": 0
 		}
     ],
     "lives": [
