@@ -45,7 +45,7 @@
             "api": "csp_Guazi",
             "playerType": 1,
 			"searchable": 1,
-			"changeable": 0,
+			"changeable": 1,
             "filterable": 1,
             "timeout": 60,
             "ext": "",
@@ -55,10 +55,10 @@
             "key": "黑木耳",
             "name": "黑木耳|资源",
             "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+            "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
             "playerType": 1,
 			"searchable": 1,
-			"changeable": 0
+			"changeable": 1
         },
 		{
 			"key": "量子",
@@ -76,7 +76,14 @@
 			"api": "http://api.ffzyapi.com/api.php/provide/vod/",
 			"playerType": 1,
 			"searchable": 1,
-			"changeable": 0
+			"changeable": 1,
+			"categories": [
+				"大陆综艺",
+				"国产剧",
+				"韩国剧",
+				"日本剧",
+				"海外剧"
+			]
 		},
 		{
 			"key": "金鹰",
@@ -84,8 +91,8 @@
 			"type": 1,
 			"api": "https://jyzyapi.com/provide/vod/",
 			"playerType": 1,
-			"searchable": 1,
-			"changeable": 0
+			"searchable": 0,
+			"changeable": 1
 		}
     ],
     "lives": [
