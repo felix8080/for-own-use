@@ -16,7 +16,7 @@
 		},
 		{
 			"key": "Wogg",
-			"name": "玩偶哥哥|网盘",
+			"name": "玩偶|网盘",
 			"type": 3,
 			"api": "csp_Wogg",
 			"quickSearch": 1,
@@ -47,9 +47,9 @@
 			"searchable": 1,
 			"changeable": 1,
 			"categories": [
-				"大陆综艺",
-				"日韩综艺",
 				"国产剧",
+				"大陆综艺",
+				"日韩综艺",				
 				"韩国剧",
 				"日本剧",
 				"海外剧",
@@ -59,42 +59,6 @@
 				"国产动漫",
 				"日韩动漫"
 			]
-		},
-		{
-			"key": "MV_vod",
-			"name": "电视┃MTV",
-			"type": 1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "酷狗",
-			"name": "酷狗",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "hipy_js_KTV歌厅[听]1",
-			"name": "🎤KTV歌厅在线",
-			"type": 3,
-			"api": "http://kxrj.site:55/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
-		},
-		{
-			"key": "Yinyuetai",
-			"name": "音悦台",
-			"type": 3,
-			"api": "csp_Yinyuetai",
-			"searchable": 1,
-			"changeable": 0
 		}
 	],
 	"lives": [
