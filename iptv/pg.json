@@ -49,7 +49,7 @@
 			"categories": [
 				"国产剧",
 				"大陆综艺",
-				"日韩综艺",				
+				"日韩综艺",
 				"韩国剧",
 				"日本剧",
 				"海外剧",
@@ -60,63 +60,64 @@
 				"日韩动漫"
 			]
 		},
-        {
-            "key": "MTV",
-            "name": "音乐┃MV",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85"
-        },
-        {
-            "key": "dr_兔小贝",
-            "name": "儿童┃启蒙",
-            "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "高中教育",
-            "name": "高中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85"
-        }
+		{
+			"key": "MTV",
+			"name": "音乐┃MV",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85"
+		},
+		{
+			"key": "高中教育",
+			"name": "高中┃课堂",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85"
+		}
 	],
 	"lives": [
 		{
 			"name": "itv",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/itv.m3u",
-			"ua": "okhttp/3.15"
+			"ua": "okhttp/3.15",
+			"catchup": {
+				"type": "append",
+				"replace": "livemode=1,livemode=4",
+				"source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+			}
 		},
 		{
 			"name": "aptv",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/aptv.m3u",
 			"ua": "iPhone"
+		},
+		{
+			"name": "webview",
+			"type": 0,
+			"url": "https://tv.2025225.xyz/web.m3u",
+			"ua": "okhttp/3.15",
+			"catchup": {
+				"type": "append",
+				"source": "?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks"
+			}
 		},
 		{
 			"name": "aktv",
