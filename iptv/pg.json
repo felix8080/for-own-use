@@ -93,7 +93,7 @@
 	],
 	"lives": [
 		{
-			"name": "itv",
+			"name": "国内直播",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/itv.m3u",
 			"ua": "okhttp/3.15",
@@ -104,29 +104,25 @@
 			}
 		},
 		{
-			"name": "webview",
+			"name": "国内直播2",
 			"type": 0,
-			"url": "https://tv.2025225.xyz/web.m3u",
-			"ua": "okhttp/3.15",
-			"catchup": {
-				"type": "append",
-				"source": "?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks"
-			}
+			"url": "https://tv.2025225.xyz/qwt.m3u",
+			"ua": "iPhone"
 		},
 		{
-			"name": "aptv",
+			"name": "国内直播3",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/aptv.m3u",
 			"ua": "iPhone"
 		},
 		{
-			"name": "aktv",
+			"name": "海外直播",
 			"type": 0,
 			"url": "https://aktv.space/live.m3u",
 			"ua": "okhttp/3.15"
 		},
 		{
-			"name": "yogurt",
+			"name": "海外直播2",
 			"type": 0,
 			"url": "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
 			"core": {
