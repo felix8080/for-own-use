@@ -106,12 +106,6 @@
 		{
 			"name": "国内直播2",
 			"type": 0,
-			"url": "https://tv.2025225.xyz/qwt.m3u",
-			"ua": "iPhone"
-		},
-		{
-			"name": "国内直播3",
-			"type": 0,
 			"url": "https://tv.2025225.xyz/aptv.m3u",
 			"ua": "iPhone"
 		},
