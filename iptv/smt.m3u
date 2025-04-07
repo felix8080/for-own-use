@@ -165,23 +165,23 @@ http://stv.alishare.cf/stv-nosession.php?id=ettvmovie
 http://stv.alishare.cf/stv-nosession.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://epg.v1.mk/logo/东森幼幼.png" group-title="台湾频道",东森幼幼
 http://stv.alishare.cf/stv-nosession.php?id=yoyo_twn
-#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://epg.v1.mk/logo/龙华洋片.png" group-title="台湾频道",龙华洋片
-http://stv.alishare.cf/stv-nosession.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-name="LS龙翔时代" tvg-logo="https://epg.v1.mk/logo/LS龙翔时代.png" group-title="台湾频道",龙祥时代
 http://stv.alishare.cf/stv-nosession.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://epg.v1.mk/logo/龙华洋片.png" group-title="台湾频道",龙华洋片
+http://stv.alishare.cf/stv-nosession.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://epg.v1.mk/logo/龙华戏剧.png" group-title="台湾频道",龙华戏剧
 http://stv.alishare.cf/stv-nosession.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://epg.v1.mk/logo/龙华偶像.png" group-title="台湾频道",龙华偶像
 http://stv.alishare.cf/stv-nosession.php?id=lunghuaidol_twn
 #EXTINF:-1 tvg-name="深圳龙华" tvg-logo="https://epg.v1.mk/logo/深圳龙华.png" group-title="台湾频道",龙华卡通
 http://stv.alishare.cf/stv-nosession.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://epg.v1.mk/logo/纬来日本台.png" group-title="港澳台",纬来日本台
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://epg.v1.mk/logo/纬来日本台.png" group-title="台湾频道",纬来日本台
 http://stv.alishare.cf/stv-nosession.php?id=videolandjapan
-#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/纬来电影台.png" group-title="港澳台",纬来电影台
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/纬来电影台.png" group-title="台湾频道",纬来电影台
 http://stv.alishare.cf/stv-nosession.php?id=videolandmovie
-#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://epg.v1.mk/logo/纬来体育台.png" group-title="港澳台",纬来体育台
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://epg.v1.mk/logo/纬来体育台.png" group-title="台湾频道",纬来体育台
 http://stv.alishare.cf/stv-nosession.php?id=videolandsport
-#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="https://epg.v1.mk/logo/纬来综合台.png" group-title="港澳台",纬来综合台
+#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="https://epg.v1.mk/logo/纬来综合台.png" group-title="台湾频道",纬来综合台
 http://stv.alishare.cf/stv-nosession.php?id=videolandzonghe
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://epg.v1.mk/logo/靖天国际.png" group-title="台湾频道",靖天国际
 http://stv.alishare.cf/stv-nosession.php?id=jingtianintl_twn
@@ -284,8 +284,6 @@ http://stv.alishare.cf/stv-nosession.php?id=Zeetv Zee
 http://stv.alishare.cf/stv-nosession.php?id=Zeecinema
 #EXTINF:-1 tvg-name="Colors Hindi" tvg-logo="https://epg.v1.mk/logo/Colors Hindi.png" group-title="海外频道",Color
 http://stv.alishare.cf/stv-nosession.php?id=Color
-#EXTINF:-1 tvg-name="CCTV16OLYMPIC" tvg-logo="https://live.fanmingming.cn/tv/CCTV16OLYMPIC.png" group-title="海外频道",Picture
-http://stv.alishare.cf/stv-nosession.php?id=Npicture Zee
 #EXTINF:-1 tvg-name="ASIANET-NEWS" tvg-logo="https://epg.v1.mk/logo/ASIANET-NEWS.png" group-title="海外频道",Asianet
 http://stv.alishare.cf/stv-nosession.php?id=asianet_raj
 #EXTINF:-1 tvg-name="ASIANET-NEWS" tvg-logo="https://epg.v1.mk/logo/ASIANET-NEWS.png" group-title="海外频道",Asianet News
