@@ -48,7 +48,7 @@ RHK 32,Smart//:id=rhk32_twn
 凤凰资讯,Smart//:id=phoenixinfo_hd
 凤凰香港,Smart//:id=hkphoenix_twn
 
-台湾,#genre#
+台湾频道,#genre#
 TVBS News 新闻台,Smart//:id=tvbs_n
 TVBS 欢乐台 （备份）,Smart//:id=tvbshuanle_twn
 TVBS,Smart//:id=tvbs
