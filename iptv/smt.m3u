@@ -106,12 +106,12 @@ http://stv.alishare.cf/stv-nosession.php?id=ttv_taiwan
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="台湾频道",中视
 http://stv.alishare.cf/stv-nosession.php?id=zhongshi_twn
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="台湾频道",民视
-http://stv.alishare.cf/stv-nosession.php?id=ftv_taiwan
+http://stv.alishare.cf/stv-nosession.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="台湾频道",华视
-http://stv.alishare.cf/stv-nosession.php?id=cts_twn
+http://stv.alishare.cf/stv-nosession.php?id=ctshd_twn
 #EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://epg.v1.mk/logo/大爱1台.png" group-title="台湾频道",大爱1台
 http://stv.alishare.cf/stv-nosession.php?id=daai_twn
-#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://epg.v1.mk/logo/大爱2台.png" group-title="台湾频道",大爱2台
+#EXTINF:-1 tvg-name="CATCHPLAY" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png" group-title="台湾频道",CATCHPLAY
 http://stv.alishare.cf/stv-nosession.php?id=catchplay_twn
 #EXTINF:-1 tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="台湾频道",TVBS
 http://stv.alishare.cf/stv-nosession.php?id=tvbs
@@ -225,6 +225,8 @@ http://stv.alishare.cf/stv-nosession.php?id=eyetvtravel_twn
 http://stv.alishare.cf/stv-nosession.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-name="好消息2" tvg-logo="https://epg.v1.mk/logo/好消息2.png" group-title="台湾频道",好消息2
 http://stv.alishare.cf/stv-nosession.php?id=good2_twn
+#EXTINF:-1,tvg-id="mtv" tvg-name="mtv" tvg-logo="https://epg.v1.mk/logo/mtv.png" group-title="台湾频道",MTV
+http://stv.alishare.cf/stv-nosession.php?id=mtvhd_twn
 
 #EXTINF:-1 tvg-name="国家地理" tvg-logo="https://epg.v1.mk/logo/国家地理.png" group-title="海外频道",国家地理
 http://stv.alishare.cf/stv-nosession.php?id=natgeo_twn
@@ -248,8 +250,6 @@ http://stv.alishare.cf/stv-nosession.php?id=History
 http://stv.alishare.cf/stv-nosession.php?id=bbcearth_twn
 #EXTINF:-1 tvg-name="BBCEARTH" tvg-logo="https://epg.v1.mk/logo/BBCEARTH.png" group-title="海外频道",BBC Earth Lifestyle
 http://stv.alishare.cf/stv-nosession.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="mtvlive" tvg-logo="https://epg.v1.mk/logo/mtvlive.png" group-title="海外频道",MTV Live
-http://stv.alishare.cf/stv-nosession.php?id=mtv_twn
 #EXTINF:-1 tvg-name="NatGeoWild" tvg-logo="https://epg.v1.mk/logo/NatGeoWild.png" group-title="海外频道",NatGeo Wild
 http://stv.alishare.cf/stv-nosession.php?id=Natgeowild
 #EXTINF:-1 tvg-name="tlc" tvg-logo="https://epg.v1.mk/logo/tlc.png" group-title="海外频道",TLC
