@@ -104,7 +104,7 @@
 		{
 			"name": "国内直播itv",
 			"type": 0,
-			"url": "https://tv.2025225.xyz/yditv.m3u",
+			"url": "https://tv.2025225.xyz/ysten.m3u",
 			"ua": "okhttp/3.15",
 			"catchup": {
 				"type": "append",
