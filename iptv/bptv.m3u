@@ -170,6 +170,20 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.cn/tv/浙江民生休闲.png" group-title="地方频道",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="地方频道",广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="地方频道",广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合台" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="地方频道",广州综合
+http://dns.yiandrive.com:15907/gztv/zhonghe
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" group-title="地方频道",广州新闻
+http://dns.yiandrive.com:15907/gztv/xinwen
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" group-title="地方频道",广州法治
+http://dns.yiandrive.com:15907/gztv/fazhi
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.iill.top/logo/广州影视.png" group-title="地方频道",广州影视
+http://dns.yiandrive.com:15907/gztv/yingshi
+#EXTINF:-1 tvg-id="广州南国" tvg-name="广州南国" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="地方频道",广州南国都市
+http://dns.yiandrive.com:15907/gztv/shenghuo
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="地方频道",湖南经视
 http://php.jdshipin.com:8880/iptv.php?id=hnjs
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.cn/tv/湖南都市.png" group-title="地方频道",湖南都市
