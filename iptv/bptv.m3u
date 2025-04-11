@@ -125,11 +125,11 @@ https://php.2025225.xyz/bptv.php?id=厦门卫视
 https://php.2025225.xyz/bptv.php?id=三沙卫视
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="地方频道" http-user-agent="iPhone",凤凰卫视资讯台
-https://php.2025225.xyz/phenix.php?id=fhzx
+http://dns.yiandrive.com:15907/phenix/fhzx
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="地方频道" http-user-agent="iPhone",凤凰卫视中文台
-https://php.2025225.xyz/phenix.php?id=fhzw
+http://dns.yiandrive.com:15907/phenix/fhzw
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="地方频道" http-user-agent="iPhone",凤凰卫视香港台
-https://php.2025225.xyz/phenix.php?id=fhhk
+http://dns.yiandrive.com:15907/phenix/fhhk
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="地方频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="地方频道",重温经典
