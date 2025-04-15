@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="测试线路一",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="测试专用",CCTV1 线路一
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="测试线路二",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="测试专用",CCTV2 线路二
 http://gslbserv.itv.cmvideo.cn/1.m3u8?Contentid=1000000001000012442&channel-id=ystenlive&livemode=1&stbId=iptv
 
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="测试线路三",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="测试专用",CCTV3 线路三
 http://php.2025225.xyz/test.php
