@@ -51,6 +51,10 @@ http://113.104.184.159:7088/udp/239.77.1.33:5146
 http://113.104.184.159:7088/udp/239.77.1.18:5146
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://113.104.184.159:7088/udp/239.77.1.218:5146
+#EXTINF:-1 tvg-name="深圳卫视"  tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://113.104.184.159:7088/udp/239.77.1.3:5146
+#EXTINF:-1 tvg-name="深圳卫视"  tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://113.104.184.159:7088/udp/239.77.0.130:5146
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://113.104.184.159:7088/udp/239.77.1.92:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -144,95 +148,91 @@ http://113.104.184.159:7088/udp/239.253.43.72:5146
 http://113.104.184.159:7088/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png" group-title="广东频道",广州法治
 http://113.104.184.159:7088/udp/239.253.43.74:5146
-#EXTINF:-1,tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.v1.mk/logo/南国都市4K.png" group-title="广东频道",南国都市4K
+#EXTINF:-1 tvg-name="南国都市4K" tvg-logo="https://epg.v1.mk/logo/南国都市4K.png" group-title="广东频道",南国都市4K
 http://113.104.184.159:7088/udp/239.253.43.99:5146
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://113.104.184.159:7088/udp/239.77.1.3:5146
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://113.104.184.159:7088/udp/239.77.0.130:5146
-#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.v1.mk/logo/深圳都市.png" group-title="广东频道",深圳都市
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://epg.v1.mk/logo/深圳都市.png" group-title="广东频道",深圳都市
 http://113.104.184.159:7088/udp/239.77.1.176:5146
-#EXTINF:-1,tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东频道",深圳电视剧
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东频道",深圳电视剧
 http://113.104.184.159:7088/udp/239.77.1.177:5146
-#EXTINF:-1,tvg-id="深圳财经" tvg-name="深圳财经" tvg-logo="https://epg.v1.mk/logo/深圳财经.png" group-title="广东频道",深圳财经
+#EXTINF:-1 tvg-name="深圳财经" tvg-logo="https://epg.v1.mk/logo/深圳财经.png" group-title="广东频道",深圳财经
 http://113.104.184.159:7088/udp/239.77.1.242:5146
-#EXTINF:-1,tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.v1.mk/logo/深圳体育健康.png" group-title="广东频道",深圳体育健康
+#EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://epg.v1.mk/logo/深圳体育健康.png" group-title="广东频道",深圳体育健康
 http://113.104.184.159:7088/udp/239.77.1.128:5146
-#EXTINF:-1,tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://epg.v1.mk/logo/深圳少儿.png" group-title="广东频道",深圳少儿
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://epg.v1.mk/logo/深圳少儿.png" group-title="广东频道",深圳少儿
 http://113.104.184.159:7088/udp/239.77.1.244:5146
-#EXTINF:-1,tvg-id="深圳宝安" tvg-name="深圳宝安" tvg-logo="https://epg.v1.mk/logo/深圳宝安.png" group-title="广东频道",宝安
+#EXTINF:-1 tvg-name="深圳宝安" tvg-logo="https://epg.v1.mk/logo/深圳宝安.png" group-title="广东频道",宝安
 http://113.104.184.159:7088/udp/239.77.1.67:5146
-#EXTINF:-1,tvg-id="深圳龙岗" tvg-name="深圳龙岗" tvg-logo="https://epg.v1.mk/logo/深圳龙岗.png" group-title="广东频道",深圳龙岗
+#EXTINF:-1 tvg-name="深圳龙岗" tvg-logo="https://epg.v1.mk/logo/深圳龙岗.png" group-title="广东频道",深圳龙岗
 http://113.104.184.159:7088/udp/239.77.1.223:5146
-#EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东频道",佛山公共
+#EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东频道",佛山公共
 http://113.104.184.159:7088/udp/239.253.43.53:5146
-#EXTINF:-1,tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://epg.v1.mk/logo/佛山南海.png" group-title="广东频道",佛山南海
+#EXTINF:-1 tvg-name="佛山南海" tvg-logo="https://epg.v1.mk/logo/佛山南海.png" group-title="广东频道",佛山南海
 http://113.104.184.159:7088/udp/239.253.43.54:5146
-#EXTINF:-1,tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://epg.v1.mk/logo/佛山顺德.png" group-title="广东频道",佛山顺德
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://epg.v1.mk/logo/佛山顺德.png" group-title="广东频道",佛山顺德
 http://113.104.184.159:7088/udp/239.253.43.55:5146
-#EXTINF:-1,tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.v1.mk/logo/佛山影视.png" group-title="广东频道",佛山影视
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://epg.v1.mk/logo/佛山影视.png" group-title="广东频道",佛山影视
 http://113.104.184.159:7088/udp/239.253.43.56:5146
-#EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.v1.mk/logo/佛山综合.png" group-title="广东频道",佛山综合
+#EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://epg.v1.mk/logo/佛山综合.png" group-title="广东频道",佛山综合
 http://113.104.184.159:7088/udp/239.253.43.57:5146
-#EXTINF:-1,tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://epg.v1.mk/logo/东莞新闻综合.png" group-title="广东频道",东莞新闻综合
+#EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://epg.v1.mk/logo/东莞新闻综合.png" group-title="广东频道",东莞新闻综合
 http://113.104.184.159:7088/udp/239.253.43.104:5146
-#EXTINF:-1,tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://epg.v1.mk/logo/东莞生活资讯.png" group-title="广东频道",东莞生活资讯
+#EXTINF:-1 tvg-name="东莞生活资讯" tvg-logo="https://epg.v1.mk/logo/东莞生活资讯.png" group-title="广东频道",东莞生活资讯
 http://113.104.184.159:7088/udp/239.253.43.105:5146
-#EXTINF:-1,tvg-id="韶关" tvg-name="韶关" tvg-logo="https://epg.v1.mk/logo/韶关.png" group-title="广东频道",韶关新闻综合
+#EXTINF:-1 tvg-name="韶关" tvg-logo="https://epg.v1.mk/logo/韶关.png" group-title="广东频道",韶关新闻综合
 http://113.104.184.159:7088/udp/239.77.0.117:5146
-#EXTINF:-1,tvg-id="湛江" tvg-name="湛江" tvg-logo="https://epg.v1.mk/logo/湛江.png" group-title="广东频道",湛江新闻综合
+#EXTINF:-1 tvg-name="湛江" tvg-logo="https://epg.v1.mk/logo/湛江.png" group-title="广东频道",湛江新闻综合
 http://113.104.184.159:7088/udp/239.77.0.141:5146
-#EXTINF:-1,tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://epg.v1.mk/logo/湛江公共.png" group-title="广东频道",湛江公共
+#EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://epg.v1.mk/logo/湛江公共.png" group-title="广东频道",湛江公共
 http://113.104.184.159:7088/udp/239.77.0.140:5146
-#EXTINF:-1,tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东频道",揭阳综合
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东频道",揭阳综合
 http://113.104.184.159:7088/udp/239.77.0.229:5146
-#EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东频道",揭阳生活
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东频道",揭阳生活
 http://113.104.184.159:7088/udp/239.77.0.251:5146
-#EXTINF:-1,tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://epg.v1.mk/logo/汕尾新闻综合.png" group-title="广东频道",汕尾新闻综合
+#EXTINF:-1 tvg-name="汕尾新闻综合" tvg-logo="https://epg.v1.mk/logo/汕尾新闻综合.png" group-title="广东频道",汕尾新闻综合
 http://113.104.184.159:7088/udp/239.77.0.25:5146
-#EXTINF:-1,tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://epg.v1.mk/logo/汕尾文化生活.png" group-title="广东频道",汕尾文化生活
+#EXTINF:-1 tvg-name="汕尾文化生活" tvg-logo="https://epg.v1.mk/logo/汕尾文化生活.png" group-title="广东频道",汕尾文化生活
 http://113.104.184.159:7088/udp/239.77.0.187:5146
-#EXTINF:-1,tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://epg.v1.mk/logo/江门综合.png" group-title="广东频道",江门综合
+#EXTINF:-1 tvg-name="江门综合" tvg-logo="https://epg.v1.mk/logo/江门综合.png" group-title="广东频道",江门综合
 http://113.104.184.159:7088/udp/239.77.0.201:5146
-#EXTINF:-1,tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://epg.v1.mk/logo/江门侨乡生活.png" group-title="广东频道",江门侨乡生活
+#EXTINF:-1 tvg-name="江门侨乡生活" tvg-logo="https://epg.v1.mk/logo/江门侨乡生活.png" group-title="广东频道",江门侨乡生活
 http://113.104.184.159:7088/udp/239.77.0.202:5146
-#EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东频道",潮州综合
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东频道",潮州综合
 http://113.104.184.159:7088/udp/239.253.43.70:5146
-#EXTINF:-1,tvg-id="潮州" tvg-name="潮州" tvg-logo="https://epg.v1.mk/logo/潮州.png" group-title="广东频道",潮州民生
+#EXTINF:-1 tvg-name="潮州" tvg-logo="https://epg.v1.mk/logo/潮州.png" group-title="广东频道",潮州民生
 http://113.104.184.159:7088/udp/239.253.43.75:5146
-#EXTINF:-1,tvg-id="GD-HZTV1" tvg-name="GD-HZTV1" tvg-logo="https://epg.v1.mk/logo/GD-HZTV1.png" group-title="广东频道",HZTV-1
+#EXTINF:-1 tvg-name="GD-HZTV1" tvg-logo="https://epg.v1.mk/logo/GD-HZTV1.png" group-title="广东频道",HZTV-1
 http://113.104.184.159:7088/udp/239.77.1.232:5146
-#EXTINF:-1,tvg-id="GD-HZTV2" tvg-name="GD-HZTV2" tvg-logo="https://epg.v1.mk/logo/GD-HZTV2.png" group-title="广东频道",HZTV-2
+#EXTINF:-1 tvg-name="GD-HZTV2" tvg-logo="https://epg.v1.mk/logo/GD-HZTV2.png" group-title="广东频道",HZTV-2
 http://113.104.184.159:7088/udp/239.77.1.233:5146
-#EXTINF:-1,tvg-id="珠海-1" tvg-name="珠海-1" tvg-logo="https://epg.v1.mk/logo/珠海-1.png" group-title="广东频道",珠海-1
+#EXTINF:-1 tvg-name="珠海-1" tvg-logo="https://epg.v1.mk/logo/珠海-1.png" group-title="广东频道",珠海-1
 http://113.104.184.159:7088/udp/239.77.0.155:5146
-#EXTINF:-1,tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://epg.v1.mk/logo/肇庆综合.png" group-title="广东频道",肇庆综合
+#EXTINF:-1 tvg-name="肇庆综合" tvg-logo="https://epg.v1.mk/logo/肇庆综合.png" group-title="广东频道",肇庆综合
 http://113.104.184.159:7088/udp/239.253.43.1:5146
-#EXTINF:-1,tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://epg.v1.mk/logo/肇庆综合.png" group-title="广东频道",肇庆生活服务
+#EXTINF:-1 tvg-name="肇庆综合" tvg-logo="https://epg.v1.mk/logo/肇庆综合.png" group-title="广东频道",肇庆生活服务
 http://113.104.184.159:7088/udp/239.253.43.2:5146
-#EXTINF:-1,tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.v1.mk/logo/河源综合.png" group-title="广东频道",河源综合
+#EXTINF:-1 tvg-name="河源综合" tvg-logo="https://epg.v1.mk/logo/河源综合.png" group-title="广东频道",河源综合
 http://113.104.184.159:7088/udp/239.253.43.213:5146
-#EXTINF:-1,tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://epg.v1.mk/logo/河源公共.png" group-title="广东频道",河源公共
+#EXTINF:-1 tvg-name="河源公共" tvg-logo="https://epg.v1.mk/logo/河源公共.png" group-title="广东频道",河源公共
 http://113.104.184.159:7088/udp/239.253.43.214:5146
-#EXTINF:-1,tvg-id="清远新闻综合" tvg-name="清远新闻综合" tvg-logo="https://epg.v1.mk/logo/清远新闻综合.png" group-title="广东频道",清远新闻综合
+#EXTINF:-1 tvg-name="清远新闻综合" tvg-logo="https://epg.v1.mk/logo/清远新闻综合.png" group-title="广东频道",清远新闻综合
 http://113.104.184.159:7088/udp/239.253.43.33:5146
-#EXTINF:-1,tvg-id="清远文旅生活" tvg-name="清远文旅生活" tvg-logo="https://epg.v1.mk/logo/清远文旅生活.png" group-title="广东频道",清远文旅生活
+#EXTINF:-1 tvg-name="清远文旅生活" tvg-logo="https://epg.v1.mk/logo/清远文旅生活.png" group-title="广东频道",清远文旅生活
 http://113.104.184.159:7088/udp/239.253.43.34:5146
-#EXTINF:-1,tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://epg.v1.mk/logo/云浮综合.png" group-title="广东频道",云浮综合
+#EXTINF:-1 tvg-name="云浮综合" tvg-logo="https://epg.v1.mk/logo/云浮综合.png" group-title="广东频道",云浮综合
 http://113.104.184.159:7088/udp/239.77.0.253:5146
-#EXTINF:-1,tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://epg.v1.mk/logo/云浮文旅.png" group-title="广东频道",云浮文旅
+#EXTINF:-1 tvg-name="云浮文旅" tvg-logo="https://epg.v1.mk/logo/云浮文旅.png" group-title="广东频道",云浮文旅
 http://113.104.184.159:7088/udp/239.77.0.254:5146
-#EXTINF:-1,tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://epg.v1.mk/logo/茂名综合.png" group-title="广东频道",茂名综合
+#EXTINF:-1 tvg-name="茂名综合" tvg-logo="https://epg.v1.mk/logo/茂名综合.png" group-title="广东频道",茂名综合
 http://113.104.184.159:7088/udp/239.77.0.206:5146
-#EXTINF:-1,tvg-id="茂名文化生活" tvg-name="茂名文化生活" tvg-logo="https://epg.v1.mk/logo/茂名文化生活.png" group-title="广东频道",茂名文化生活
+#EXTINF:-1 tvg-name="茂名文化生活" tvg-logo="https://epg.v1.mk/logo/茂名文化生活.png" group-title="广东频道",茂名文化生活
 http://113.104.184.159:7088/udp/239.77.0.207:5146
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东频道",汕头综合
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东频道",汕头综合
 http://113.104.184.159:7088/udp/239.253.43.45:5146
-#EXTINF:-1,tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东频道",汕头经济生活
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东频道",汕头经济生活
 http://113.104.184.159:7088/udp/239.253.43.46:5146
-#EXTINF:-1,tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://epg.v1.mk/logo/中山综合.png" group-title="广东频道",中山综合
+#EXTINF:-1 tvg-name="中山综合" tvg-logo="https://epg.v1.mk/logo/中山综合.png" group-title="广东频道",中山综合
 http://113.104.184.159:7088/udp/239.253.43.62:5146
-#EXTINF:-1,tvg-id="香山文化" tvg-name="香山文化" tvg-logo="https://epg.v1.mk/logo/香山文化.png" group-title="广东频道",香山文化
+#EXTINF:-1 tvg-name="香山文化" tvg-logo="https://epg.v1.mk/logo/香山文化.png" group-title="广东频道",香山文化
 http://113.104.184.159:7088/udp/239.253.43.63:5146
 
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="数字频道",兵器科技
@@ -339,6 +339,10 @@ http://116.30.250.62:8088/udp/239.77.1.92:5146
 http://116.30.250.62:8088/udp/239.77.1.4:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道二",北京卫视
 http://116.30.250.62:8088/udp/239.77.1.151:5146
+#EXTINF:-1 tvg-name="深圳卫视"  tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道二",深圳卫视
+http://116.30.250.62:8088/udp/239.77.1.3:5146
+#EXTINF:-1 tvg-name="深圳卫视"  tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道二",深圳卫视
+http://116.30.250.62:8088/udp/239.77.0.130:5146
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道二",天津卫视
 http://116.30.250.62:8088/udp/239.77.1.141:5146
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道二",天津卫视
@@ -426,95 +430,91 @@ http://116.30.250.62:8088/udp/239.253.43.72:5146
 http://116.30.250.62:8088/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png" group-title="广东频道二",广州法治
 http://116.30.250.62:8088/udp/239.253.43.74:5146
-#EXTINF:-1,tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.v1.mk/logo/南国都市4K.png" group-title="广东频道二",南国都市4K
+#EXTINF:-1 tvg-name="南国都市4K" tvg-logo="https://epg.v1.mk/logo/南国都市4K.png" group-title="广东频道二",南国都市4K
 http://116.30.250.62:8088/udp/239.253.43.99:5146
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://116.30.250.62:8088/udp/239.77.1.3:5146
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://116.30.250.62:8088/udp/239.77.0.130:5146
-#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.v1.mk/logo/深圳都市.png" group-title="广东频道二",深圳都市
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://epg.v1.mk/logo/深圳都市.png" group-title="广东频道二",深圳都市
 http://116.30.250.62:8088/udp/239.77.1.176:5146
-#EXTINF:-1,tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东频道二",深圳电视剧
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东频道二",深圳电视剧
 http://116.30.250.62:8088/udp/239.77.1.177:5146
-#EXTINF:-1,tvg-id="深圳财经" tvg-name="深圳财经" tvg-logo="https://epg.v1.mk/logo/深圳财经.png" group-title="广东频道二",深圳财经
+#EXTINF:-1 tvg-name="深圳财经" tvg-logo="https://epg.v1.mk/logo/深圳财经.png" group-title="广东频道二",深圳财经
 http://116.30.250.62:8088/udp/239.77.1.242:5146
-#EXTINF:-1,tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.v1.mk/logo/深圳体育健康.png" group-title="广东频道二",深圳体育健康
+#EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://epg.v1.mk/logo/深圳体育健康.png" group-title="广东频道二",深圳体育健康
 http://116.30.250.62:8088/udp/239.77.1.128:5146
-#EXTINF:-1,tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://epg.v1.mk/logo/深圳少儿.png" group-title="广东频道二",深圳少儿
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://epg.v1.mk/logo/深圳少儿.png" group-title="广东频道二",深圳少儿
 http://116.30.250.62:8088/udp/239.77.1.244:5146
-#EXTINF:-1,tvg-id="深圳宝安" tvg-name="深圳宝安" tvg-logo="https://epg.v1.mk/logo/深圳宝安.png" group-title="广东频道二",宝安
+#EXTINF:-1 tvg-name="深圳宝安" tvg-logo="https://epg.v1.mk/logo/深圳宝安.png" group-title="广东频道二",宝安
 http://116.30.250.62:8088/udp/239.77.1.67:5146
-#EXTINF:-1,tvg-id="深圳龙岗" tvg-name="深圳龙岗" tvg-logo="https://epg.v1.mk/logo/深圳龙岗.png" group-title="广东频道二",深圳龙岗
+#EXTINF:-1 tvg-name="深圳龙岗" tvg-logo="https://epg.v1.mk/logo/深圳龙岗.png" group-title="广东频道二",深圳龙岗
 http://116.30.250.62:8088/udp/239.77.1.223:5146
-#EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东频道二",佛山公共
+#EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东频道二",佛山公共
 http://116.30.250.62:8088/udp/239.253.43.53:5146
-#EXTINF:-1,tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://epg.v1.mk/logo/佛山南海.png" group-title="广东频道二",佛山南海
+#EXTINF:-1 tvg-name="佛山南海" tvg-logo="https://epg.v1.mk/logo/佛山南海.png" group-title="广东频道二",佛山南海
 http://116.30.250.62:8088/udp/239.253.43.54:5146
-#EXTINF:-1,tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://epg.v1.mk/logo/佛山顺德.png" group-title="广东频道二",佛山顺德
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://epg.v1.mk/logo/佛山顺德.png" group-title="广东频道二",佛山顺德
 http://116.30.250.62:8088/udp/239.253.43.55:5146
-#EXTINF:-1,tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.v1.mk/logo/佛山影视.png" group-title="广东频道二",佛山影视
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://epg.v1.mk/logo/佛山影视.png" group-title="广东频道二",佛山影视
 http://116.30.250.62:8088/udp/239.253.43.56:5146
-#EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.v1.mk/logo/佛山综合.png" group-title="广东频道二",佛山综合
+#EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://epg.v1.mk/logo/佛山综合.png" group-title="广东频道二",佛山综合
 http://116.30.250.62:8088/udp/239.253.43.57:5146
-#EXTINF:-1,tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://epg.v1.mk/logo/东莞新闻综合.png" group-title="广东频道二",东莞新闻综合
+#EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://epg.v1.mk/logo/东莞新闻综合.png" group-title="广东频道二",东莞新闻综合
 http://116.30.250.62:8088/udp/239.253.43.104:5146
-#EXTINF:-1,tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://epg.v1.mk/logo/东莞生活资讯.png" group-title="广东频道二",东莞生活资讯
+#EXTINF:-1 tvg-name="东莞生活资讯" tvg-logo="https://epg.v1.mk/logo/东莞生活资讯.png" group-title="广东频道二",东莞生活资讯
 http://116.30.250.62:8088/udp/239.253.43.105:5146
-#EXTINF:-1,tvg-id="韶关" tvg-name="韶关" tvg-logo="https://epg.v1.mk/logo/韶关.png" group-title="广东频道二",韶关新闻综合
+#EXTINF:-1 tvg-name="韶关" tvg-logo="https://epg.v1.mk/logo/韶关.png" group-title="广东频道二",韶关新闻综合
 http://116.30.250.62:8088/udp/239.77.0.117:5146
-#EXTINF:-1,tvg-id="湛江" tvg-name="湛江" tvg-logo="https://epg.v1.mk/logo/湛江.png" group-title="广东频道二",湛江新闻综合
+#EXTINF:-1 tvg-name="湛江" tvg-logo="https://epg.v1.mk/logo/湛江.png" group-title="广东频道二",湛江新闻综合
 http://116.30.250.62:8088/udp/239.77.0.141:5146
-#EXTINF:-1,tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://epg.v1.mk/logo/湛江公共.png" group-title="广东频道二",湛江公共
+#EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://epg.v1.mk/logo/湛江公共.png" group-title="广东频道二",湛江公共
 http://116.30.250.62:8088/udp/239.77.0.140:5146
-#EXTINF:-1,tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东频道二",揭阳综合
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东频道二",揭阳综合
 http://116.30.250.62:8088/udp/239.77.0.229:5146
-#EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东频道二",揭阳生活
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东频道二",揭阳生活
 http://116.30.250.62:8088/udp/239.77.0.251:5146
-#EXTINF:-1,tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://epg.v1.mk/logo/汕尾新闻综合.png" group-title="广东频道二",汕尾新闻综合
+#EXTINF:-1 tvg-name="汕尾新闻综合" tvg-logo="https://epg.v1.mk/logo/汕尾新闻综合.png" group-title="广东频道二",汕尾新闻综合
 http://116.30.250.62:8088/udp/239.77.0.25:5146
-#EXTINF:-1,tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://epg.v1.mk/logo/汕尾文化生活.png" group-title="广东频道二",汕尾文化生活
+#EXTINF:-1 tvg-name="汕尾文化生活" tvg-logo="https://epg.v1.mk/logo/汕尾文化生活.png" group-title="广东频道二",汕尾文化生活
 http://116.30.250.62:8088/udp/239.77.0.187:5146
-#EXTINF:-1,tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://epg.v1.mk/logo/江门综合.png" group-title="广东频道二",江门综合
+#EXTINF:-1 tvg-name="江门综合" tvg-logo="https://epg.v1.mk/logo/江门综合.png" group-title="广东频道二",江门综合
 http://116.30.250.62:8088/udp/239.77.0.201:5146
-#EXTINF:-1,tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://epg.v1.mk/logo/江门侨乡生活.png" group-title="广东频道二",江门侨乡生活
+#EXTINF:-1 tvg-name="江门侨乡生活" tvg-logo="https://epg.v1.mk/logo/江门侨乡生活.png" group-title="广东频道二",江门侨乡生活
 http://116.30.250.62:8088/udp/239.77.0.202:5146
-#EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东频道二",潮州综合
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东频道二",潮州综合
 http://116.30.250.62:8088/udp/239.253.43.70:5146
-#EXTINF:-1,tvg-id="潮州" tvg-name="潮州" tvg-logo="https://epg.v1.mk/logo/潮州.png" group-title="广东频道二",潮州民生
+#EXTINF:-1 tvg-name="潮州" tvg-logo="https://epg.v1.mk/logo/潮州.png" group-title="广东频道二",潮州民生
 http://116.30.250.62:8088/udp/239.253.43.75:5146
-#EXTINF:-1,tvg-id="GD-HZTV1" tvg-name="GD-HZTV1" tvg-logo="https://epg.v1.mk/logo/GD-HZTV1.png" group-title="广东频道二",HZTV-1
+#EXTINF:-1 tvg-name="GD-HZTV1" tvg-logo="https://epg.v1.mk/logo/GD-HZTV1.png" group-title="广东频道二",HZTV-1
 http://116.30.250.62:8088/udp/239.77.1.232:5146
-#EXTINF:-1,tvg-id="GD-HZTV2" tvg-name="GD-HZTV2" tvg-logo="https://epg.v1.mk/logo/GD-HZTV2.png" group-title="广东频道二",HZTV-2
+#EXTINF:-1 tvg-name="GD-HZTV2" tvg-logo="https://epg.v1.mk/logo/GD-HZTV2.png" group-title="广东频道二",HZTV-2
 http://116.30.250.62:8088/udp/239.77.1.233:5146
-#EXTINF:-1,tvg-id="珠海-1" tvg-name="珠海-1" tvg-logo="https://epg.v1.mk/logo/珠海-1.png" group-title="广东频道二",珠海-1
+#EXTINF:-1 tvg-name="珠海-1" tvg-logo="https://epg.v1.mk/logo/珠海-1.png" group-title="广东频道二",珠海-1
 http://116.30.250.62:8088/udp/239.77.0.155:5146
-#EXTINF:-1,tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://epg.v1.mk/logo/肇庆综合.png" group-title="广东频道二",肇庆综合
+#EXTINF:-1 tvg-name="肇庆综合" tvg-logo="https://epg.v1.mk/logo/肇庆综合.png" group-title="广东频道二",肇庆综合
 http://116.30.250.62:8088/udp/239.253.43.1:5146
-#EXTINF:-1,tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://epg.v1.mk/logo/肇庆综合.png" group-title="广东频道二",肇庆生活服务
+#EXTINF:-1 tvg-name="肇庆综合" tvg-logo="https://epg.v1.mk/logo/肇庆综合.png" group-title="广东频道二",肇庆生活服务
 http://116.30.250.62:8088/udp/239.253.43.2:5146
-#EXTINF:-1,tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.v1.mk/logo/河源综合.png" group-title="广东频道二",河源综合
+#EXTINF:-1 tvg-name="河源综合" tvg-logo="https://epg.v1.mk/logo/河源综合.png" group-title="广东频道二",河源综合
 http://116.30.250.62:8088/udp/239.253.43.213:5146
-#EXTINF:-1,tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://epg.v1.mk/logo/河源公共.png" group-title="广东频道二",河源公共
+#EXTINF:-1 tvg-name="河源公共" tvg-logo="https://epg.v1.mk/logo/河源公共.png" group-title="广东频道二",河源公共
 http://116.30.250.62:8088/udp/239.253.43.214:5146
-#EXTINF:-1,tvg-id="清远新闻综合" tvg-name="清远新闻综合" tvg-logo="https://epg.v1.mk/logo/清远新闻综合.png" group-title="广东频道二",清远新闻综合
+#EXTINF:-1 tvg-name="清远新闻综合" tvg-logo="https://epg.v1.mk/logo/清远新闻综合.png" group-title="广东频道二",清远新闻综合
 http://116.30.250.62:8088/udp/239.253.43.33:5146
-#EXTINF:-1,tvg-id="清远文旅生活" tvg-name="清远文旅生活" tvg-logo="https://epg.v1.mk/logo/清远文旅生活.png" group-title="广东频道二",清远文旅生活
+#EXTINF:-1 tvg-name="清远文旅生活" tvg-logo="https://epg.v1.mk/logo/清远文旅生活.png" group-title="广东频道二",清远文旅生活
 http://116.30.250.62:8088/udp/239.253.43.34:5146
-#EXTINF:-1,tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://epg.v1.mk/logo/云浮综合.png" group-title="广东频道二",云浮综合
+#EXTINF:-1 tvg-name="云浮综合" tvg-logo="https://epg.v1.mk/logo/云浮综合.png" group-title="广东频道二",云浮综合
 http://116.30.250.62:8088/udp/239.77.0.253:5146
-#EXTINF:-1,tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://epg.v1.mk/logo/云浮文旅.png" group-title="广东频道二",云浮文旅
+#EXTINF:-1 tvg-name="云浮文旅" tvg-logo="https://epg.v1.mk/logo/云浮文旅.png" group-title="广东频道二",云浮文旅
 http://116.30.250.62:8088/udp/239.77.0.254:5146
-#EXTINF:-1,tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://epg.v1.mk/logo/茂名综合.png" group-title="广东频道二",茂名综合
+#EXTINF:-1 tvg-name="茂名综合" tvg-logo="https://epg.v1.mk/logo/茂名综合.png" group-title="广东频道二",茂名综合
 http://116.30.250.62:8088/udp/239.77.0.206:5146
-#EXTINF:-1,tvg-id="茂名文化生活" tvg-name="茂名文化生活" tvg-logo="https://epg.v1.mk/logo/茂名文化生活.png" group-title="广东频道二",茂名文化生活
+#EXTINF:-1 tvg-name="茂名文化生活" tvg-logo="https://epg.v1.mk/logo/茂名文化生活.png" group-title="广东频道二",茂名文化生活
 http://116.30.250.62:8088/udp/239.77.0.207:5146
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东频道二",汕头综合
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东频道二",汕头综合
 http://116.30.250.62:8088/udp/239.253.43.45:5146
-#EXTINF:-1,tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东频道二",汕头经济生活
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东频道二",汕头经济生活
 http://116.30.250.62:8088/udp/239.253.43.46:5146
-#EXTINF:-1,tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://epg.v1.mk/logo/中山综合.png" group-title="广东频道二",中山综合
+#EXTINF:-1 tvg-name="中山综合" tvg-logo="https://epg.v1.mk/logo/中山综合.png" group-title="广东频道二",中山综合
 http://116.30.250.62:8088/udp/239.253.43.62:5146
-#EXTINF:-1,tvg-id="香山文化" tvg-name="香山文化" tvg-logo="https://epg.v1.mk/logo/香山文化.png" group-title="广东频道二",香山文化
+#EXTINF:-1 tvg-name="香山文化" tvg-logo="https://epg.v1.mk/logo/香山文化.png" group-title="广东频道二",香山文化
 http://116.30.250.62:8088/udp/239.253.43.63:5146
 
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="数字频道二",兵器科技
