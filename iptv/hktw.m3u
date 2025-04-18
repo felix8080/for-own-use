@@ -24,36 +24,42 @@ http://php.jdshipin.com/smt.php?id=viu1_twn
 http://php.jdshipin.com/smt.php?id=viusix_twn
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Hoy77.png" group-title="港澳频道",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png" group-title="港澳频道",RTHK31
-http://pixman.mytvsuper.com.mp/Smart.php?id=rhk31_twn
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" group-title="港澳频道",RTHK32
-http://pixman.mytvsuper.com.mp/Smart.php?id=rhk32_twn
+http://php.jdshipin.com/smt.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港澳频道",千禧经典台
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="港澳频道",美亚电影台
+http://php.jdshipin.com/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映" tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="港澳频道",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="港澳频道",天映经典
+http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png" group-title="港澳频道",澳视澳门台
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://epg.v1.mk/logo/广州综合.png" group-title="广东频道",广州综合
-http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+http://php.jdshipin.com/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://epg.v1.mk/logo/广州新闻.png" group-title="广东频道",广州新闻
-http://php.jdshipin.com:8880/gztv.php?id=xinwen
+http://php.jdshipin.com/gztv.php?id=xinwen
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://epg.v1.mk/logo/广州竞赛.png" group-title="广东频道",广州竞赛
-http://php.jdshipin.com:8880/gztv.php?id=jingsai
+http://php.jdshipin.com/gztv.php?id=jingsai
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://epg.v1.mk/logo/广州影视.png" group-title="广东频道",广州影视
-http://php.jdshipin.com:8880/gztv.php?id=yingshi
+http://php.jdshipin.com/gztv.php?id=yingshi
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://epg.v1.mk/logo/广州法治.png" group-title="广东频道",广州法治
-http://php.jdshipin.com:8880/gztv.php?id=fazhi
+http://php.jdshipin.com/gztv.php?id=fazhi
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://epg.v1.mk/logo/南国都市.png" group-title="广东频道",南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+http://php.jdshipin.com/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://epg.v1.mk/logo/佛山综合.png" group-title="广东频道",佛山综合
-http://php.jdshipin.com:8880/fstv.php?id=fszh
+http://php.jdshipin.com/fstv.php?id=fszh
 #EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://epg.v1.mk/logo/佛山影视.png" group-title="广东频道",佛山影视
-http://php.jdshipin.com:8880/fstv.php?id=fsys
+http://php.jdshipin.com/fstv.php?id=fsys
 #EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东频道",佛山公共
-http://php.jdshipin.com:8880/fstv.php?id=fsgg
+http://php.jdshipin.com/fstv.php?id=fsgg
 #EXTINF:-1 tvg-name="佛山南海" tvg-logo="https://epg.v1.mk/logo/佛山南海.png" group-title="广东频道",佛山南海
-http://php.jdshipin.com:8880/fstv.php?id=fsnh
+http://php.jdshipin.com/fstv.php?id=fsnh
 #EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://epg.v1.mk/logo/佛山顺德.png" group-title="广东频道",佛山顺德
-http://php.jdshipin.com:8880/fstv.php?id=fssd
+http://php.jdshipin.com/fstv.php?id=fssd
 #EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东频道",佛山高明
-http://php.jdshipin.com:8880/fstv.php?id=fsgm
+http://php.jdshipin.com/fstv.php?id=fsgm
 #EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东频道",佛山三水
-http://php.jdshipin.com:8880/fstv.php?id=fsss
+http://php.jdshipin.com/fstv.php?id=fsss
