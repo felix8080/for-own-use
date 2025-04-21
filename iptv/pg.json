@@ -125,6 +125,18 @@
 			"ext": {}
 		},
 		{
+			"name": "海外直播live_smt",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+			"ext": {}
+		},
+		{
+			"name": "海外直播live_litv",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+			"ext": {}
+		},
+		{
 			"name": "海外直播yang",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/Gather",
