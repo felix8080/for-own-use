@@ -125,7 +125,7 @@ webview://https://yangshipin.cn/tv/home?pid=600002481
 webview://https://yangshipin.cn/tv/home?pid=600002516
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002525
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",福建东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002484
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 webview://https://yangshipin.cn/tv/home?pid=600002490
@@ -201,7 +201,7 @@ webview://https://www.gdtv.cn/tvChannelDetail/102
 #EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="广东频道",GRTN教育频道
 webview://https://www.gdtv.cn/tvChannelDetail/104
 
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="浙江频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
