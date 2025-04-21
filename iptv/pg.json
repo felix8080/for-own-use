@@ -119,10 +119,10 @@
 			"ua": "iPhone"
 		},
 		{
-			"name": "海外直播live_smt",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-			"ext": {}
+			"name": "海外直播hktw",
+			"type": 0,
+			"url": "https://tv.2025225.xyz/hktw.m3u",
+			"ua": "iPhone"
 		},
 		{
 			"name": "海外直播live_smt",
