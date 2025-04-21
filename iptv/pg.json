@@ -119,9 +119,9 @@
 			"ua": "iPhone"
 		},
 		{
-			"name": "海外直播litv",
+			"name": "海外直播smt",
 			"type": 3,
-			"api": "./live_smt.py",
+			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
 			"ext": {},
 			"ua": "okhttp/3.15"
 		},
