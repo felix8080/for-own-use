@@ -119,6 +119,12 @@
 			"ua": "iPhone"
 		},
 		{
+			"name": "海外直播litv",
+			"type": 0,
+			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/smt.json",
+			"ua": "okhttp/3.15"
+		},
+		{
 			"name": "海外直播yang",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/Gather",
