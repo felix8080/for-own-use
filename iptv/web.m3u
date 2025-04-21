@@ -70,6 +70,10 @@ webview://https://tv.cctv.com/live/cctv16/
 webview://https://yangshipin.cn/tv/home?pid=600001810
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-17 农业农村
 webview://https://tv.cctv.com/live/cctv17/
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (欧)
+webview://https://tv.cctv.com/live/cctveurope/
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (美)
+webview://https://tv.cctv.com/live/cctvamerica/
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 webview://https://yangshipin.cn/tv/home?pid=600002264
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道",CCTV8K
@@ -92,10 +96,6 @@ webview://https://yangshipin.cn/tv/home?pid=600084704
 webview://https://yangshipin.cn/tv/home?pid=600084744
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 webview://https://yangshipin.cn/tv/home?pid=600084782
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (欧)
-webview://https://tv.cctv.com/live/cctveurope/index.shtml
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (美)
-webview://https://tv.cctv.com/live/cctvamerica/
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 webview://https://yangshipin.cn/tv/home?pid=600002309
@@ -244,13 +244,13 @@ webview://https://live.mgtv.com/?channelId=578
 webview://https://live.mgtv.com/?channelId=316
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="湖南频道",快乐垂钓
 webview://https://live.mgtv.com/?channelId=218
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.cn/tv/先锋乒羽.png" group-title="湖南频道",先锋乒羽
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://epg.v1.mk/logo/先锋乒羽.png" group-title="湖南频道",先锋乒羽
 webview://https://live.mgtv.com/?channelId=329
 #EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://epg.v1.mk/logo/长沙新闻.png" group-title="湖南频道",长沙新闻综合
 webview://https://live.mgtv.com/?channelId=269
 #EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://epg.v1.mk/logo/长沙政法.png" group-title="湖南频道",长沙政法频道
 webview://https://live.mgtv.com/?channelId=254
-#EXTINF:-1 tvg-name="快乐购" tvg-logo="https://live.fanmingming.cn/tv/快乐购.png" group-title="湖南频道",快乐购
+#EXTINF:-1 tvg-name="快乐购" tvg-logo="https://epg.v1.mk/logo/快乐购.png" group-title="湖南频道",快乐购
 webview://https://live.mgtv.com/?channelId=267
 
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" group-title="内蒙古频道",内蒙古少儿
