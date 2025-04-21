@@ -121,7 +121,7 @@
 		{
 			"name": "海外直播smt",
 			"type": 3,
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+			"api": "./live_smt.py",
 			"ext": {},
 			"ua": "okhttp/3.15"
 		},
