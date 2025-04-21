@@ -120,8 +120,9 @@
 		},
 		{
 			"name": "海外直播litv",
-			"type": 0,
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/smt.json",
+			"type": 3,
+			"api": "./live_smt.py",
+			"ext": {},
 			"ua": "okhttp/3.15"
 		},
 		{
