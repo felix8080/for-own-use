@@ -102,7 +102,7 @@
 	],
 	"lives": [
 		{
-			"name": "国内直播itv",
+			"name": "国内直播ysten",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/ysten.m3u",
 			"ua": "okhttp/3.15",
