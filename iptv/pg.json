@@ -23,7 +23,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$https://pg.banye.tech:7777/pg/lib/wogg.json$$$WOGG",
+			"ext": "https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$https://www.wogg.one/$$$noproxy$$$1$$$https://pg.banye.tech:7777/pg/lib/wogg.json$$$WOGG",
 			"jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
 		},
 		{
