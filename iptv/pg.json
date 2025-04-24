@@ -127,13 +127,13 @@
 		{
 			"name": "海外直播live_smt",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
+			"api": "https://tv.2025225.xyz/live/live_smt.py",
 			"ext": {}
 		},
 		{
 			"name": "海外直播live_litv",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+			"api": "https://tv.2025225.xyz/live/live_litv.py",
 			"ext": {}
 		},
 		{
