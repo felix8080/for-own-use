@@ -102,7 +102,7 @@
 	],
 	"lives": [
 		{
-			"name": "国内直播ysten",
+			"name": "国内直播移动",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/ysten.m3u",
 			"ua": "okhttp/3.15",
@@ -125,19 +125,25 @@
 			"ua": "iPhone"
 		},
 		{
-			"name": "海外直播live_smt",
+			"name": "海外直播smt",
 			"type": 3,
 			"api": "https://tv.2025225.xyz/live/live_smt.py",
 			"ext": {}
 		},
 		{
-			"name": "海外直播live_litv",
+			"name": "海外直播litv🪜",
 			"type": 3,
 			"api": "https://tv.2025225.xyz/live/live_litv.py",
 			"ext": {}
 		},
 		{
-			"name": "海外直播YanG",
+			"name": "MyTV直播YanG🪜",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/MyTV",
+			"ua": "okhttp/3.15"
+		},
+		{
+			"name": "海外直播YanG🪜",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/Gather",
 			"ua": "okhttp/3.15"
