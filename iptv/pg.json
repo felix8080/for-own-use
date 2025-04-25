@@ -131,6 +131,24 @@
 			"ext": {}
 		},
 		{
+          "name": "AKTV-综合-Judy2025",
+          "type":"0",
+          "ua": "judy/5.2.1",
+          "url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token="
+        },
+         {
+          "name": "AKTV-体育-Judy2025",
+          "type":"0",
+          "ua": "judy/5.2.1",
+          "url":"https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token="
+        },
+         {
+          "name": "AKTV-央视卫视-Judy2025",
+          "type":"0",
+          "ua": "judy/5.2.1",
+          "url":"https://video.mytvsuper.xyz/playlist/yang-shi-wei-shi.m3u?token="
+        },
+		{
 			"name": "海外直播litv🪜",
 			"type": 3,
 			"api": "https://tv.2025225.xyz/live/live_litv.py",
