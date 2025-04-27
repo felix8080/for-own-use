@@ -102,6 +102,18 @@
 	],
 	"lives": [
 		{
+			"name": "国内直播aptv",
+			"type": 0,
+			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+			"ua": "iPhone"
+		},
+		{
+			"name": "国内直播bptv",
+			"type": 0,
+			"url": "https://tv.2025225.xyz/bptv.m3u",
+			"ua": "iPhone"
+		},
+		{
 			"name": "国内直播移动",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/ysten.m3u",
@@ -111,18 +123,6 @@
 				"replace": "livemode=1,livemode=4",
 				"source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 			}
-		},
-		{
-			"name": "国内直播aptv",
-			"type": 0,
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-			"ua": "iPhone"
-		},
-		{
-			"name": "海外直播bptv",
-			"type": 0,
-			"url": "https://tv.2025225.xyz/bptv.m3u",
-			"ua": "iPhone"
 		},
 		{
 			"name": "海外直播smt",

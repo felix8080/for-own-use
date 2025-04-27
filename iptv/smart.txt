@@ -1,9 +1,9 @@
-香港,#genre#
-香港|翡翠台,Smart//:id=jade_twn
-香港|翡翠台 备用,Smart//:id=Jade_xue
+中国香港,#genre#
+香港|翡翠台,Smart//:id=Jade_xue
+香港|翡翠台 备用,Smart//:id=jade_twn
 香港|无线新闻台,Smart//:id=inews_twn
-香港|J 2,Smart//:id=j2_twn
-香港|明珠台,Smart//:id=pearl_twn
+香港|TVB Plus,Smart//:id=j2_twn
+香港|TVB明珠台,Smart//:id=pearl_twn
 香港|HOY资讯台,Smart//:id=hoycaijing_twn
 香港|ViuTV,Smart//:id=viu1_twn
 香港|ViuTV6,Smart//:id=viusix_twn
@@ -13,7 +13,7 @@
 香港|凤凰资讯,Smart//:id=phoenixinfo_hd
 香港|凤凰香港,Smart//:id=hkphoenix_twn
 
-台湾,#genre#
+中国台湾,#genre#
 台湾|TVBS新闻,Smart//:id=tvbs_n
 台湾|TVBS欢乐台,Smart//:id=tvbshuanle_twn
 台湾|TVBS,Smart//:id=tvbs
@@ -96,7 +96,7 @@
 台湾|CINEMAX,Smart//:id=cinemax_twn
 台湾|TLC Asia,Smart//:id=tlc_twn
 
-央视,#genre#
+中国大陆,#genre#
 中国|CCTV-1 综合,Smart//:id=cctv1
 中国|CCTV-2 财经,Smart//:id=cctv2
 中国|CCTV-3 综艺,Smart//:id=cctv3
@@ -115,8 +115,6 @@
 中国|CCTV-14 少儿,Smart//:id=cctv14
 中国|CCTV-15 音乐,Smart//:id=cctv15
 中国|CGTN,Smart//:id=CGTN
-
-卫视,#genre#
 中国|北京卫视,Smart//:id=beijing
 中国|湖南卫视,Smart//:id=hunan_twn
 中国|浙江卫视,Smart//:id=zhejiang_twn
