@@ -1,52 +1,49 @@
 {
-	"spider": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa",
+	"spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/5lWvupzl.png;md5;0771987fbd836a7ed117d822d35c5070",
 	"wallpaper": "https://bing.ee123.net/img/rand",
-	"disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"sites": [
 		{
 			"key": "豆瓣",
 			"name": "好好学习，天天向上",
 			"type": 3,
-			"api": "csp_Douban",
+			"api": "csp_DoubanGuard",
 			"searchable": 0,
 			"changeable": 1,
-			"indexs": 1,
-			"ext": "https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$https://pg.banye.tech:7777/pg/lib/douban.json",
-			"jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
+			"indexs": 1
 		},
 		{
-			"key": "Wogg",
-			"name": "玩偶┃网盘",
+			"key": "配置中心",
+			"name": "配置┃中心",
 			"type": 3,
-			"api": "csp_Wogg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$https://www.wogg.one/$$$noproxy$$$1$$$https://pg.banye.tech:7777/pg/lib/wogg.json$$$WOGG",
-			"jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
+			"api": "csp_ConfigGuard",
+			"searchable": 0,
+			"changeable": 0,
+			"indexs": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.43
+			}
 		},
 		{
-			"key": "蜡笔网盘",
-			"name": "蜡笔┃网盘",
+			"key": "本地播放",
+			"name": "本地┃播放",
 			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$https://www.goimg.asia/$$$noproxy$$$1$$$https://pg.banye.tech:7777/pg/lib/wogg.json$$$LABI",
-			"jar": "https://pg.banye.tech:7777/pg/pg.jar;md5;e2646d827e8b992c147b76e66a9162aa"
+			"api": "csp_LocalGuard",
+			"searchable": 0,
+			"changeable": 0,
+			"indexs": 0,
+			"style": {
+				"type": "list"
+			},
+			"timeout": 5
 		},
-		{
-			"key": "py_小苹果APP",
-			"name": "小苹果┃APP",
-			"type": 3,
-			"api": "https://10526.kstore.vip/星河影视/小苹果.py",
-			"searchable": 1,
-			"filterable": 0,
-			"changeable": 0
-		  },
+		{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
+		{"key":"蜡笔","name":"蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 30},
+		{"key":"小苹果","name":"苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+		{"key":"素白白","name":"白白┃直连","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+		{"key":"厂长","name":"厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+		{"key":"糯米","name":"糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+		{"key":"瓜子","name":"瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
 		{
 			"key": "量子",
 			"name": "量子┃资源",
@@ -68,36 +65,6 @@
 				"国产动漫",
 				"日韩动漫"
 			]
-		},
-		{
-			"key": "高中教育",
-			"name": "高中┃课堂",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85"
-		},
-		{
-			"key": "MTV",
-			"name": "音乐┃MV",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85"
 		}
 	],
 	"lives": [
