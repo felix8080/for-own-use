@@ -183,7 +183,7 @@
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
 {domain}/?token={TOKEN}&ott=migu&cid=嘉佳卡通
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="少儿频道",金鹰卡通
-{domain}/?token={TOKEN}&ott=wbtv&cid=金鹰卡通
+{domain}/?token={TOKEN}&ott=bptv&cid=金鹰卡通
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" group-title="少儿频道",内蒙古少儿

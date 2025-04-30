@@ -94,7 +94,7 @@ ViuTV6,{domain}/?token={TOKEN}&ott=wbtv&cid=ViuTV6
 少儿频道,#genre#
 优漫卡通,{domain}/?token={TOKEN}&ott=migu&cid=优漫卡通
 嘉佳卡通,{domain}/?token={TOKEN}&ott=migu&cid=嘉佳卡通
-金鹰卡通,{domain}/?token={TOKEN}&ott=wbtv&cid=金鹰卡通
+金鹰卡通,{domain}/?token={TOKEN}&ott=bptv&cid=金鹰卡通
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 老故事,{domain}/?token={TOKEN}&ott=migu&cid=老故事
