@@ -54,11 +54,11 @@
 {domain}/?token={TOKEN}&ott=migu&cid=CGTN阿语
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-{domain}/?token={TOKEN}&ott=wbtv&cid=浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 {domain}/?token={TOKEN}&ott=migu&cid=江苏卫视
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
-{domain}/?token={TOKEN}&ott=wbtv&cid=北京卫视
+{domain}/?token={TOKEN}&ott=bptv&cid=北京卫视
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 {domain}/?token={TOKEN}&ott=bptv&cid=湖南卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
@@ -100,11 +100,11 @@
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 {domain}/?token={TOKEN}&ott=migu&cid=陕西卫视
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-{domain}/?token={TOKEN}&ott=wbtv&cid=甘肃卫视
+{domain}/?token={TOKEN}&ott=bptv&cid=甘肃卫视
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
 {domain}/?token={TOKEN}&ott=migu&cid=青海卫视
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-{domain}/?token={TOKEN}&ott=wbtv&cid=黑龙江卫视
+{domain}/?token={TOKEN}&ott=bptv&cid=黑龙江卫视
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 {domain}/?token={TOKEN}&ott=migu&cid=吉林卫视
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
@@ -116,7 +116,7 @@
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 {domain}/?token={TOKEN}&ott=bptv&cid=新疆卫视
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-{domain}/?token={TOKEN}&ott=wbtv&cid=兵团卫视
+{domain}/?token={TOKEN}&ott=bptv&cid=兵团卫视
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 {domain}/?token={TOKEN}&ott=bptv&cid=西藏卫视
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
