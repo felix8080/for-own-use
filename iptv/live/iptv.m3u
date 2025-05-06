@@ -120,7 +120,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 {domain}/?token={TOKEN}&ott=bptv&cid=西藏卫视
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-{domain}/?token={TOKEN}&ott=wbtv&cid=内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 {domain}/?token={TOKEN}&ott=migu&cid=大湾区卫视
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
@@ -188,19 +188,19 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" group-title="少儿频道",内蒙古少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/002/202405081702_1715158642984_H169_1080.jpg" group-title="少儿频道",老故事
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="少儿频道",老故事
 {domain}/?token={TOKEN}&ott=migu&cid=老故事
-#EXTINF:-1 tvg-name="中学生" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/355/202405081702_1715158104256_H169_1080.jpg" group-title="少儿频道",中学生
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="少儿频道",中学生
 {domain}/?token={TOKEN}&ott=migu&cid=中学生
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="少儿频道",发现之旅
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.cn/tv/发现之旅.png" group-title="少儿频道",发现之旅
 {domain}/?token={TOKEN}&ott=migu&cid=发现之旅
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/150/202407181432_1721283643483_H169_1080.jpg" group-title="少儿频道",CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="少儿频道",CETV1
 {domain}/?token={TOKEN}&ott=migu&cid=CETV1
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/152/202407181432_1721283773509_H169_1080.jpg" group-title="少儿频道",CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="少儿频道",CETV2
 {domain}/?token={TOKEN}&ott=migu&cid=CETV2
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="少儿频道",CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="少儿频道",CETV4
 {domain}/?token={TOKEN}&ott=migu&cid=CETV4
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="少儿频道",经典动画大集合
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="少儿频道",经典动画大集合
 {domain}/?token={TOKEN}&ott=migu&cid=经典动画大集合
 
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="影视频道",CHC动作电影
@@ -209,35 +209,35 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733ce
 {domain}/?token={TOKEN}&ott=migu&cid=CHC家庭影院
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
 {domain}/?token={TOKEN}&ott=migu&cid=CHC影迷电影
-#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="影视频道",新片放映厅
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="影视频道",新片放映厅
 {domain}/?token={TOKEN}&ott=migu&cid=新片放映厅
-#EXTINF:-1 tvg-name="高清大片" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="影视频道",高清大片
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="影视频道",高清大片
 {domain}/?token={TOKEN}&ott=migu&cid=高清大片
-#EXTINF:-1 tvg-name="南方影视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg" group-title="影视频道",南方影视
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg" group-title="影视频道",南方影视
 {domain}/?token={TOKEN}&ott=migu&cid=南方影视
-#EXTINF:-1 tvg-name="红色轮播台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/527/202407181250_1721278183765_H169_1080.jpg" group-title="影视频道",红色轮播台
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/527/202407181250_1721278183765_H169_1080.jpg" group-title="影视频道",红色轮播台
 {domain}/?token={TOKEN}&ott=migu&cid=红色轮播台
-#EXTINF:-1 tvg-name="华语乐坛最强音" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/462/658/202403281542_1711611714236_H169_1080.jpg" group-title="影视频道",华语乐坛最强音
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/462/658/202403281542_1711611714236_H169_1080.jpg" group-title="影视频道",华语乐坛最强音
 {domain}/?token={TOKEN}&ott=migu&cid=华语乐坛最强音
-#EXTINF:-1 tvg-name="周杰伦现场" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/230/666/202407291311_1722229753453_H169_1080.jpg" group-title="影视频道",周杰伦现场
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/230/666/202407291311_1722229753453_H169_1080.jpg" group-title="影视频道",周杰伦现场
 {domain}/?token={TOKEN}&ott=migu&cid=周杰伦现场
-#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="影视频道",最强综艺趴
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="影视频道",最强综艺趴
 {domain}/?token={TOKEN}&ott=migu&cid=最强综艺趴
-#EXTINF:-1 tvg-name="咪咕汇盛典轮播" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/162/202504031100_1743649196497_H169_1080.jpg" group-title="影视频道",咪咕汇盛典轮播
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/162/202504031100_1743649196497_H169_1080.jpg" group-title="影视频道",咪咕汇盛典轮播
 {domain}/?token={TOKEN}&ott=migu&cid=咪咕汇盛典轮播
-#EXTINF:-1 tvg-name="NBA经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="影视频道",NBA经典
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="影视频道",NBA经典
 {domain}/?token={TOKEN}&ott=migu&cid=NBA经典
-#EXTINF:-1 tvg-name="五大联赛经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/338/202304201403_1681970538994_H169_1080.jpg" group-title="影视频道",五大联赛经典
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/338/202304201403_1681970538994_H169_1080.jpg" group-title="影视频道",五大联赛经典
 {domain}/?token={TOKEN}&ott=migu&cid=五大联赛经典
-#EXTINF:-1 tvg-name="中国足球风云" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/530/202404091152_1712634646523_H169_1080.jpg" group-title="影视频道",中国足球风云
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/530/202404091152_1712634646523_H169_1080.jpg" group-title="影视频道",中国足球风云
 {domain}/?token={TOKEN}&ott=migu&cid=中国足球风云
-#EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/592/947/202204010047_5101034296_H169_1080.jpg" group-title="影视频道",赛事最经典
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/592/947/202204010047_5101034296_H169_1080.jpg" group-title="影视频道",赛事最经典
 {domain}/?token={TOKEN}&ott=migu&cid=赛事最经典
-#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="影视频道",掼蛋精英赛
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="影视频道",掼蛋精英赛
 {domain}/?token={TOKEN}&ott=migu&cid=掼蛋精英赛
-#EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/687/202204010048_5101034219_H169_1080.jpg" group-title="影视频道",体坛名栏汇
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/687/202204010048_5101034219_H169_1080.jpg" group-title="影视频道",体坛名栏汇
 {domain}/?token={TOKEN}&ott=migu&cid=体坛名栏汇
-#EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="影视频道",咪咕24小时体育台
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="影视频道",咪咕24小时体育台
 {domain}/?token={TOKEN}&ott=migu&cid=咪咕24小时体育台
 
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="地方频道",浙江新闻
@@ -260,26 +260,26 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 {domain}/?token={TOKEN}&ott=migu&cid=上视东方影视
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="地方频道",上海第一财经
 {domain}/?token={TOKEN}&ott=migu&cid=上海第一财经
+#EXTINF:-1 tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.cn/tv/江苏休闲体育.png" group-title="地方频道",江苏休闲体育
+{domain}/?token={TOKEN}&ott=migu&cid=体育休闲频道
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.fanmingming.cn/tv/江苏城市.png" group-title="地方频道",江苏城市
+{domain}/?token={TOKEN}&ott=migu&cid=江苏城市频道
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.cn/tv/江苏国际.png" group-title="地方频道",江苏国际
+{domain}/?token={TOKEN}&ott=migu&cid=江苏国际
+#EXTINF:-1 tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.cn/tv/江苏教育电视台.png" group-title="地方频道",江苏教育
+{domain}/?token={TOKEN}&ott=migu&cid=江苏教育
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.cn/tv/江苏影视.png" group-title="地方频道",江苏影视
+{domain}/?token={TOKEN}&ott=migu&cid=江苏影视频道
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.cn/tv/江苏综艺.png" group-title="地方频道",江苏综艺
+{domain}/?token={TOKEN}&ott=migu&cid=江苏综艺频道
+#EXTINF:-1 tvg-name="江苏公共新闻" tvg-logo="https://live.fanmingming.cn/tv/江苏公共新闻.png" group-title="地方频道",江苏公共新闻
+{domain}/?token={TOKEN}&ott=migu&cid=公共新闻频道
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/863/202307121521_1689144286039_H169_1080.jpg" group-title="地方频道",南京新闻综合频道
 {domain}/?token={TOKEN}&ott=migu&cid=南京新闻综合频道
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/865/202307121700_1689146721503_H169_1080.jpg" group-title="地方频道",南京教科频道
 {domain}/?token={TOKEN}&ott=migu&cid=南京教科频道
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/864/202307121658_1689146982273_H169_1080.jpg" group-title="地方频道",南京十八频道
 {domain}/?token={TOKEN}&ott=migu&cid=南京十八频道
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/554/202104022139_5100186459_H169_1080.jpg" group-title="地方频道",体育休闲频道
-{domain}/?token={TOKEN}&ott=migu&cid=体育休闲频道
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/508/202104022138_5100186409_H169_1080.jpg" group-title="地方频道",江苏城市频道
-{domain}/?token={TOKEN}&ott=migu&cid=江苏城市频道
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/577/202104022139_5100186482_HSJ720H.jpg" group-title="地方频道",江苏国际
-{domain}/?token={TOKEN}&ott=migu&cid=江苏国际
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/287/493/202104022139_5101012819_HSJ720H.jpg" group-title="地方频道",江苏教育
-{domain}/?token={TOKEN}&ott=migu&cid=江苏教育
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/517/202104022138_5100186424_H169_1080.jpg" group-title="地方频道",江苏影视频道
-{domain}/?token={TOKEN}&ott=migu&cid=江苏影视频道
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/513/202104022039_5100186420_H169_1080.jpg" group-title="地方频道",江苏综艺频道
-{domain}/?token={TOKEN}&ott=migu&cid=江苏综艺频道
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/520/202104022138_5100186429_H169_1080.jpg" group-title="地方频道",公共新闻频道
-{domain}/?token={TOKEN}&ott=migu&cid=公共新闻频道
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/363/202104022141_5102012618_H169_1080.jpg" group-title="地方频道",淮安新闻综合
 {domain}/?token={TOKEN}&ott=migu&cid=淮安新闻综合
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/354/202104071213_5102012615_H169_1080.jpg" group-title="地方频道",泰州新闻综合
@@ -329,25 +329,25 @@ https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d1
 #EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.cn/tv/乌兰察布.png" group-title="地方频道",乌兰察布新闻
 https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/699/202209211759_2200200699_H169_1080.jpg" group-title="熊猫频道",熊猫频道1
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/699/202209211759_2200200699_H169_1080.jpg" group-title="熊猫频道",熊猫频道1
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道1
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/717/202209211759_2200200717_H169_1080.jpg" group-title="熊猫频道",熊猫频道2
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/717/202209211759_2200200717_H169_1080.jpg" group-title="熊猫频道",熊猫频道2
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道2
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/738/202209211759_2200200738_H169_1080.jpg" group-title="熊猫频道",熊猫频道3
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/738/202209211759_2200200738_H169_1080.jpg" group-title="熊猫频道",熊猫频道3
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道3
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/771/202209211800_2200200771_H169_1080.jpg" group-title="熊猫频道",熊猫频道4
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/771/202209211800_2200200771_H169_1080.jpg" group-title="熊猫频道",熊猫频道4
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道4
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/791/202209211800_2200200791_H169_1080.jpg" group-title="熊猫频道",熊猫频道5
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/791/202209211800_2200200791_H169_1080.jpg" group-title="熊猫频道",熊猫频道5
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道5
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/817/202209211800_2200200817_H169_1080.jpg" group-title="熊猫频道",熊猫频道6
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/817/202209211800_2200200817_H169_1080.jpg" group-title="熊猫频道",熊猫频道6
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道6
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/831/202209211800_2200192831_H169_1080.jpg" group-title="熊猫频道",熊猫频道7
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/831/202209211800_2200192831_H169_1080.jpg" group-title="熊猫频道",熊猫频道7
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道7
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/881/202209211800_2200192881_H169_1080.jpg" group-title="熊猫频道",熊猫频道8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/881/202209211800_2200192881_H169_1080.jpg" group-title="熊猫频道",熊猫频道8
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道8
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/899/202209211800_2200192899_H169_1080.jpg" group-title="熊猫频道",熊猫频道9
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/899/202209211800_2200192899_H169_1080.jpg" group-title="熊猫频道",熊猫频道9
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道9
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/937/202209211800_2200192937_H169_1080.jpg" group-title="熊猫频道",熊猫频道10
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/937/202209211800_2200192937_H169_1080.jpg" group-title="熊猫频道",熊猫频道10
 {domain}/?token={TOKEN}&ott=migu&cid=熊猫频道10
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",订阅有效时间至

@@ -60,7 +60,7 @@ CGTN阿语,{domain}/?token={TOKEN}&ott=migu&cid=CGTN阿语
 新疆卫视,{domain}/?token={TOKEN}&ott=bptv&cid=新疆卫视
 兵团卫视,{domain}/?token={TOKEN}&ott=bptv&cid=兵团卫视
 西藏卫视,{domain}/?token={TOKEN}&ott=bptv&cid=西藏卫视
-内蒙古卫视,{domain}/?token={TOKEN}&ott=wbtv&cid=内蒙古卫视
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 大湾区卫视,{domain}/?token={TOKEN}&ott=migu&cid=大湾区卫视
 三沙卫视,{domain}/?token={TOKEN}&ott=bptv&cid=三沙卫视
 
@@ -136,16 +136,16 @@ NBA经典,{domain}/?token={TOKEN}&ott=migu&cid=NBA经典
 上海新闻综合,{domain}/?token={TOKEN}&ott=migu&cid=上海新闻综合
 上视东方影视,{domain}/?token={TOKEN}&ott=migu&cid=上视东方影视
 上海第一财经,{domain}/?token={TOKEN}&ott=migu&cid=上海第一财经
+江苏休闲体育,{domain}/?token={TOKEN}&ott=migu&cid=体育休闲频道
+江苏城市,{domain}/?token={TOKEN}&ott=migu&cid=江苏城市频道
+江苏国际,{domain}/?token={TOKEN}&ott=migu&cid=江苏国际
+江苏教育,{domain}/?token={TOKEN}&ott=migu&cid=江苏教育
+江苏影视,{domain}/?token={TOKEN}&ott=migu&cid=江苏影视频道
+江苏综艺,{domain}/?token={TOKEN}&ott=migu&cid=江苏综艺频道
+江苏公共新闻,{domain}/?token={TOKEN}&ott=migu&cid=公共新闻频道
 南京新闻综合频道,{domain}/?token={TOKEN}&ott=migu&cid=南京新闻综合频道
 南京教科频道,{domain}/?token={TOKEN}&ott=migu&cid=南京教科频道
 南京十八频道,{domain}/?token={TOKEN}&ott=migu&cid=南京十八频道
-体育休闲频道,{domain}/?token={TOKEN}&ott=migu&cid=体育休闲频道
-江苏城市频道,{domain}/?token={TOKEN}&ott=migu&cid=江苏城市频道
-江苏国际,{domain}/?token={TOKEN}&ott=migu&cid=江苏国际
-江苏教育,{domain}/?token={TOKEN}&ott=migu&cid=江苏教育
-江苏影视频道,{domain}/?token={TOKEN}&ott=migu&cid=江苏影视频道
-江苏综艺频道,{domain}/?token={TOKEN}&ott=migu&cid=江苏综艺频道
-公共新闻频道,{domain}/?token={TOKEN}&ott=migu&cid=公共新闻频道
 淮安新闻综合,{domain}/?token={TOKEN}&ott=migu&cid=淮安新闻综合
 泰州新闻综合,{domain}/?token={TOKEN}&ott=migu&cid=泰州新闻综合
 连云港新闻综合,{domain}/?token={TOKEN}&ott=migu&cid=连云港新闻综合
