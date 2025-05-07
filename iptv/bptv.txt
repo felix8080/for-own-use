@@ -125,6 +125,14 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 咪咕体育,#genre#
+睛彩青少,http://live.2025225.xyz/bptv/?id=睛彩青少
+睛彩青少2,http://live.2025225.xyz/bptv/?id=睛彩青少2
+睛彩竞技,http://live.2025225.xyz/bptv/?id=睛彩竞技
+睛彩竞技2,http://live.2025225.xyz/bptv/?id=睛彩竞技2
+睛彩篮球,http://live.2025225.xyz/bptv/?id=睛彩篮球
+睛彩篮球2,http://live.2025225.xyz/bptv/?id=睛彩篮球2
+睛彩广场舞,http://live.2025225.xyz/bptv/?id=睛彩广场舞
+睛彩广场舞2,http://live.2025225.xyz/bptv/?id=睛彩广场舞2
 咪视通-1,http://live.2025225.xyz/bptv/?id=咪视通-1
 咪视通-2,http://live.2025225.xyz/bptv/?id=咪视通-2
 咪视通-3,http://live.2025225.xyz/bptv/?id=咪视通-3
@@ -162,11 +170,3 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 咪视通-35,http://live.2025225.xyz/bptv/?id=咪视通-35
 咪视通-36,http://live.2025225.xyz/bptv/?id=咪视通-36
 咪视通-37,http://live.2025225.xyz/bptv/?id=咪视通-37
-咪视通-38,http://live.2025225.xyz/bptv/?id=咪视通-38
-咪视通-39,http://live.2025225.xyz/bptv/?id=咪视通-39
-咪视通-40,http://live.2025225.xyz/bptv/?id=咪视通-40
-咪视通-41,http://live.2025225.xyz/bptv/?id=咪视通-41
-咪视通-42,http://live.2025225.xyz/bptv/?id=咪视通-42
-咪视通-43,http://live.2025225.xyz/bptv/?id=咪视通-43
-咪视通-44,http://live.2025225.xyz/bptv/?id=咪视通-44
-咪视通-45,http://live.2025225.xyz/bptv/?id=咪视通-45
