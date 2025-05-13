@@ -104,6 +104,30 @@
 			"ext": {}
 		},
 		{
+			"name": "咪咕体育Judy",
+			"type": 0,
+			"url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+			"ua": "judy/5.2.1"
+		},
+		{
+			"name": "MyTV直播Judy🪜",
+			"type": 0,
+			"url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+			"ua": "judy/5.2.1"
+		},
+		{
+			"name": "海外直播Judy🪜",
+			"type": 0,
+			"url": "http://docker.livednow.dpdns.org/?type=m3u",
+			"ua": "judy/5.2.1"
+		},
+		{
+			"name": "海外直播Judy2🪜",
+			"type": 0,
+			"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+			"ua": "xieanqishiwoerzi/0.0.1"
+		},
+		{
 			"name": "MyTV直播YanG🪜",
 			"type": 0,
 			"url": "https://tv.iill.top/m3u/MyTV",
