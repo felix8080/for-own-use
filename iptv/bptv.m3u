@@ -226,93 +226,113 @@ http://148.135.93.213/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="香港频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="咪咕频道",睛彩青少
-http://live.2025225.xyz/bptv/?id=睛彩青少
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="咪咕频道",睛彩青少2
-http://live.2025225.xyz/bptv/?id=睛彩青少2
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="咪咕频道",睛彩竞技
-http://live.2025225.xyz/bptv/?id=睛彩竞技
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="咪咕频道",睛彩竞技2
-http://live.2025225.xyz/bptv/?id=睛彩竞技2
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="咪咕频道",睛彩篮球
-http://live.2025225.xyz/bptv/?id=睛彩篮球
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="咪咕频道",睛彩篮球2
-http://live.2025225.xyz/bptv/?id=睛彩篮球2
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="咪咕频道",睛彩广场舞
-http://live.2025225.xyz/bptv/?id=睛彩广场舞
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="咪咕频道",睛彩广场舞2
-http://live.2025225.xyz/bptv/?id=睛彩广场舞2
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-1
-http://live.2025225.xyz/bptv/?id=咪视通-1
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-2
-http://live.2025225.xyz/bptv/?id=咪视通-2
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-3
-http://live.2025225.xyz/bptv/?id=咪视通-3
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-4
-http://live.2025225.xyz/bptv/?id=咪视通-4
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-5
-http://live.2025225.xyz/bptv/?id=咪视通-5
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-6
-http://live.2025225.xyz/bptv/?id=咪视通-6
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-7
-http://live.2025225.xyz/bptv/?id=咪视通-7
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-8
-http://live.2025225.xyz/bptv/?id=咪视通-8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-9
-http://live.2025225.xyz/bptv/?id=咪视通-9
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-10
-http://live.2025225.xyz/bptv/?id=咪视通-10
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-11
-http://live.2025225.xyz/bptv/?id=咪视通-11
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-12
-http://live.2025225.xyz/bptv/?id=咪视通-12
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-13
-http://live.2025225.xyz/bptv/?id=咪视通-13
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-14
-http://live.2025225.xyz/bptv/?id=咪视通-14
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-15
-http://live.2025225.xyz/bptv/?id=咪视通-15
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-16
-http://live.2025225.xyz/bptv/?id=咪视通-16
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-17
-http://live.2025225.xyz/bptv/?id=咪视通-17
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-18
-http://live.2025225.xyz/bptv/?id=咪视通-18
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-19
-http://live.2025225.xyz/bptv/?id=咪视通-19
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-20
-http://live.2025225.xyz/bptv/?id=咪视通-20
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-21
-http://live.2025225.xyz/bptv/?id=咪视通-21
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-22
-http://live.2025225.xyz/bptv/?id=咪视通-22
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-23
-http://live.2025225.xyz/bptv/?id=咪视通-23
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-24
-http://live.2025225.xyz/bptv/?id=咪视通-24
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-25
-http://live.2025225.xyz/bptv/?id=咪视通-25
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-26
-http://live.2025225.xyz/bptv/?id=咪视通-26
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-27
-http://live.2025225.xyz/bptv/?id=咪视通-27
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-28
-http://live.2025225.xyz/bptv/?id=咪视通-28
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-29
-http://live.2025225.xyz/bptv/?id=咪视通-29
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-30
-http://live.2025225.xyz/bptv/?id=咪视通-30
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-31
-http://live.2025225.xyz/bptv/?id=咪视通-31
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-32
-http://live.2025225.xyz/bptv/?id=咪视通-32
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-33
-http://live.2025225.xyz/bptv/?id=咪视通-33
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-34
-http://live.2025225.xyz/bptv/?id=咪视通-34
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-35
-http://live.2025225.xyz/bptv/?id=咪视通-35
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-36
-http://live.2025225.xyz/bptv/?id=咪视通-36
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪视通-37
-http://live.2025225.xyz/bptv/?id=咪视通-37
+#EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_星爷
+http://live.2025225.xyz/bptv/?id=电影_星爷
+#EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_英叔
+http://live.2025225.xyz/bptv/?id=电影_英叔
+#EXTINF:-1 tvg-name="电影_发哥" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_发哥
+http://live.2025225.xyz/bptv/?id=电影_发哥
+#EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_成龙
+http://live.2025225.xyz/bptv/?id=电影_成龙
+#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_王晶
+http://live.2025225.xyz/bptv/?id=电影_王晶
+#EXTINF:-1 tvg-name="电影_沈腾" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_沈腾
+http://live.2025225.xyz/bptv/?id=电影_沈腾
+#EXTINF:-1 tvg-name="电影_黄渤" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_黄渤
+http://live.2025225.xyz/bptv/?id=电影_黄渤
+#EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_强森
+http://live.2025225.xyz/bptv/?id=电影_强森
+#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_漫威
+http://live.2025225.xyz/bptv/?id=电影_漫威
+#EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_宇宙
+http://live.2025225.xyz/bptv/?id=电影_宇宙
+#EXTINF:-1 tvg-name="电影_怪兽" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_怪兽
+http://live.2025225.xyz/bptv/?id=电影_怪兽
+#EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_贺岁
+http://live.2025225.xyz/bptv/?id=电影_贺岁
+#EXTINF:-1 tvg-name="电影_玄幻" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_玄幻
+http://live.2025225.xyz/bptv/?id=电影_玄幻
+#EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_谍战
+http://live.2025225.xyz/bptv/?id=电影_谍战
+#EXTINF:-1 tvg-name="电影_战争" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_战争
+http://live.2025225.xyz/bptv/?id=电影_战争
+#EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_喜剧
+http://live.2025225.xyz/bptv/?id=电影_喜剧
+#EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_港片
+http://live.2025225.xyz/bptv/?id=电影_港片
+#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_国产
+http://live.2025225.xyz/bptv/?id=电影_国产
+#EXTINF:-1 tvg-name="电影_周星星" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_周星星
+http://live.2025225.xyz/bptv/?id=电影_周星星
+#EXTINF:-1 tvg-name="电影_李连杰" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_李连杰
+http://live.2025225.xyz/bptv/?id=电影_李连杰
+#EXTINF:-1 tvg-name="电影_洪金宝" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_洪金宝
+http://live.2025225.xyz/bptv/?id=电影_洪金宝
+#EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_梁家辉
+http://live.2025225.xyz/bptv/?id=电影_梁家辉
+#EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_许冠英
+http://live.2025225.xyz/bptv/?id=电影_许冠英
+#EXTINF:-1 tvg-name="电影_刘德华" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_刘德华
+http://live.2025225.xyz/bptv/?id=电影_刘德华
+#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_斯坦森
+http://live.2025225.xyz/bptv/?id=电影_斯坦森
+#EXTINF:-1 tvg-name="电影_蜘蛛侠" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_蜘蛛侠
+http://live.2025225.xyz/bptv/?id=电影_蜘蛛侠
+#EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_贺岁片
+http://live.2025225.xyz/bptv/?id=电影_贺岁片
+#EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_功夫片
+http://live.2025225.xyz/bptv/?id=电影_功夫片
+#EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_黑帮片
+http://live.2025225.xyz/bptv/?id=电影_黑帮片
+#EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_丧尸片
+http://live.2025225.xyz/bptv/?id=电影_丧尸片
+#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_灾难片
+http://live.2025225.xyz/bptv/?id=电影_灾难片
+#EXTINF:-1 tvg-name="电影_谍战片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_谍战片
+http://live.2025225.xyz/bptv/?id=电影_谍战片
+#EXTINF:-1 tvg-name="电影_战争片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_战争片
+http://live.2025225.xyz/bptv/?id=电影_战争片
+#EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_犯罪片
+http://live.2025225.xyz/bptv/?id=电影_犯罪片
+#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_古装片
+http://live.2025225.xyz/bptv/?id=电影_古装片
+#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_高分动作
+http://live.2025225.xyz/bptv/?id=电影_高分动作
+#EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_动作电影
+http://live.2025225.xyz/bptv/?id=电影_动作电影
+#EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_搞笑喜剧
+http://live.2025225.xyz/bptv/?id=电影_搞笑喜剧
+#EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_喜剧专场
+http://live.2025225.xyz/bptv/?id=电影_喜剧专场
+#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_欢笑影院
+http://live.2025225.xyz/bptv/?id=电影_欢笑影院
+#EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_不挤影院
+http://live.2025225.xyz/bptv/?id=电影_不挤影院
+#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_国产悬疑
+http://live.2025225.xyz/bptv/?id=电影_国产悬疑
+#EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_快意江湖
+http://live.2025225.xyz/bptv/?id=电影_快意江湖
+#EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_黑帮斗争
+http://live.2025225.xyz/bptv/?id=电影_黑帮斗争
+#EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_古墓系列
+http://live.2025225.xyz/bptv/?id=电影_古墓系列
+#EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_嫣然影厅
+http://live.2025225.xyz/bptv/?id=电影_嫣然影厅
+#EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_女神系列
+http://live.2025225.xyz/bptv/?id=电影_女神系列
+#EXTINF:-1 tvg-name="电影_经典女神" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_经典女神
+http://live.2025225.xyz/bptv/?id=电影_经典女神
+#EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_经典港片
+http://live.2025225.xyz/bptv/?id=电影_经典港片
+#EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_喜乐影院
+http://live.2025225.xyz/bptv/?id=电影_喜乐影院
+#EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_蘑菇影厅
+http://live.2025225.xyz/bptv/?id=电影_蘑菇影厅
+#EXTINF:-1 tvg-name="电影_搞笑恐怖" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_搞笑恐怖
+http://live.2025225.xyz/bptv/?id=电影_搞笑恐怖
+#EXTINF:-1 tvg-name="电影_死神来了" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_死神来了
+http://live.2025225.xyz/bptv/?id=电影_死神来了
+#EXTINF:-1 tvg-name="电影_变形金刚" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_变形金刚
+http://live.2025225.xyz/bptv/?id=电影_变形金刚
+#EXTINF:-1 tvg-name="电影_怪兽系列" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="影视频道",电影_怪兽系列
+http://live.2025225.xyz/bptv/?id=电影_怪兽系列
