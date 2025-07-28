@@ -80,7 +80,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-上视新闻,http://live.2025225.xyz/bptv/?id=上视新闻
 东方影视,http://live.2025225.xyz/bptv/?id=东方影视
 上海第一财经,http://live.2025225.xyz/bptv/?id=上海第一财经
 湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
@@ -166,5 +165,3 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 电影-死神来了,http://live.2025225.xyz/bptv/?id=电影-死神来了
 电影-变形金刚,http://live.2025225.xyz/bptv/?id=电影-变形金刚
 电影-怪兽系列,http://live.2025225.xyz/bptv/?id=电影-怪兽系列
-
-
