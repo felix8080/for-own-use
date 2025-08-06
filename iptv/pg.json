@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/5lWvupzl.png;md5;0771987fbd836a7ed117d822d35c5070",
+	"spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/neyAUC_R.png;md5;2f4b05a693eb87f6d6834d89685cb16a",
 	"wallpaper": "https://bing.ee123.net/img/rand",
 	"sites": [
 		{
@@ -40,7 +40,6 @@
 		{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
 		{"key":"蜡笔","name":"蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 30},
 		{"key":"小苹果","name":"苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-		{"key":"素白白","name":"白白┃直连","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
 		{"key":"厂长","name":"厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
 		{"key":"糯米","name":"糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
 		{"key":"瓜子","name":"瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
@@ -65,19 +64,15 @@
 				"国产动漫",
 				"日韩动漫"
 			]
-		}
+		},
+    	{"key":"瓜子看球","name":"瓜子┃看球","type":3,"api":"csp_GzSportGuard","searchable":0,"changeable":0,"style":{"type":"list"},"timeout":10},
+    	{"key":"88看球","name":"88┃看球","type":3,"api":"csp_KanqiuGuard","searchable":0,"changeable":0,"style":{"type":"list"},"timeout":10}
 	],
 	"lives": [
 		{
 			"name": "国内直播aptv",
 			"type": 0,
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-			"ua": "iPhone"
-		},
-		{
-			"name": "国内直播bptv",
-			"type": 0,
-			"url": "https://tv.2025225.xyz/bptv.m3u",
+			"url": "https://tv.2025225.xyz/aptv/iptv.m3u",
 			"ua": "iPhone"
 		},
 		{
@@ -102,30 +97,6 @@
 			"type": 3,
 			"api": "https://tv.2025225.xyz/live/live_litv.py",
 			"ext": {}
-		},
-		{
-			"name": "咪咕体育Judy",
-			"type": 0,
-			"url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
-			"ua": "judy/5.2.1"
-		},
-		{
-			"name": "MyTV直播Judy🪜",
-			"type": 0,
-			"url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-			"ua": "judy/5.2.1"
-		},
-		{
-			"name": "海外直播Judy🪜",
-			"type": 0,
-			"url": "http://docker.livednow.dpdns.org/?type=m3u",
-			"ua": "judy/5.2.1"
-		},
-		{
-			"name": "海外直播Judy2🪜",
-			"type": 0,
-			"url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-			"ua": "xieanqishiwoerzi/0.0.1"
 		},
 		{
 			"name": "MyTV直播YanG🪜",
