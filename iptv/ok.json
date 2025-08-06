@@ -1,0 +1,363 @@
+{
+	"spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/neyAUC_R.png;md5;2f4b05a693eb87f6d6834d89685cb16a",
+	"wallpaper": "https://bing.ee123.net/img/rand",
+	"sites": [
+		{
+			"key": "豆瓣",
+			"name": "好好学习，天天向上",
+			"type": 3,
+			"api": "csp_DoubanGuard",
+			"searchable": 0,
+			"changeable": 1,
+			"indexs": 1
+		},
+		{
+			"key": "配置中心",
+			"name": "配置┃中心",
+			"type": 3,
+			"api": "csp_ConfigGuard",
+			"searchable": 0,
+			"changeable": 0,
+			"indexs": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.43
+			}
+		},
+		{
+			"key": "本地播放",
+			"name": "本地┃播放",
+			"type": 3,
+			"api": "csp_LocalGuard",
+			"searchable": 0,
+			"changeable": 0,
+			"indexs": 0,
+			"style": {
+				"type": "list"
+			},
+			"timeout": 5
+		},
+		{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
+		{"key":"蜡笔","name":"蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 30},
+		{"key":"小苹果","name":"苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+		{"key":"厂长","name":"厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+		{"key":"糯米","name":"糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+		{"key":"瓜子","name":"瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+		{
+			"key": "量子",
+			"name": "量子┃资源",
+			"type": 1,
+			"api": "https://cj.lziapi.com/api.php/provide/vod/",
+			"playerType": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"categories": [
+				"国产剧",
+				"大陆综艺",
+				"日韩综艺",
+				"韩国剧",
+				"日本剧",
+				"海外剧",
+				"喜剧片",
+				"动作片",
+				"剧情片",
+				"国产动漫",
+				"日韩动漫"
+			]
+		},
+    	{"key":"瓜子看球","name":"瓜子┃看球","type":3,"api":"csp_GzSportGuard","searchable":0,"changeable":0,"style":{"type":"list"},"timeout":10},
+    	{"key":"88看球","name":"88┃看球","type":3,"api":"csp_KanqiuGuard","searchable":0,"changeable":0,"style":{"type":"list"},"timeout":10}
+	],
+	"lives": [
+		{
+			"name": "国内直播aptv",
+			"type": 0,
+			"url": "https://tv.2025225.xyz/aptv/iptv.m3u",
+			"ua": "iPhone"
+		},
+		{
+			"name": "国内直播移动",
+			"type": 0,
+			"url": "https://tv.2025225.xyz/ysten.m3u",
+			"ua": "okhttp/3.15",
+			"catchup": {
+				"type": "append",
+				"replace": "livemode=1,livemode=4",
+				"source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+			}
+		},
+		{
+			"name": "海外直播smt",
+			"type": 3,
+			"api": "https://tv.2025225.xyz/live/live_smt.py",
+			"ext": {}
+		},
+		{
+			"name": "海外直播litv🪜",
+			"type": 3,
+			"api": "https://tv.2025225.xyz/live/live_litv.py",
+			"ext": {}
+		},
+		{
+			"name": "MyTV直播YanG🪜",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/MyTV",
+			"ua": "okhttp/3.15"
+		},
+		{
+			"name": "海外直播YanG🪜",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Gather",
+			"ua": "okhttp/3.15"
+		}
+	],
+	"hosts": [
+		"cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
+		"cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
+		"cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
+		"cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
+		"cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+	],
+	"doh": [
+		{
+			"name": "Google",
+			"url": "https://dns.google/dns-query",
+			"ips": [
+				"8.8.4.4",
+				"8.8.8.8"
+			]
+		},
+		{
+			"name": "Cloudflare",
+			"url": "https://cloudflare-dns.com/dns-query",
+			"ips": [
+				"1.1.1.1",
+				"1.0.0.1",
+				"2606:4700:4700::1111",
+				"2606:4700:4700::1001"
+			]
+		},
+		{
+			"name": "AdGuard",
+			"url": "https://dns.adguard.com/dns-query",
+			"ips": [
+				"94.140.14.140",
+				"94.140.14.141"
+			]
+		},
+		{
+			"name": "DNSWatch",
+			"url": "https://resolver2.dns.watch/dns-query",
+			"ips": [
+				"84.200.69.80",
+				"84.200.70.40"
+			]
+		},
+		{
+			"name": "Quad9",
+			"url": "https://dns.quad9.net/dns-quer",
+			"ips": [
+				"9.9.9.9",
+				"149.112.112.112"
+			]
+		}
+	],
+	"proxy": [
+		"raw.githubusercontent.com",
+		"googlevideo.com",
+		"cdn.v82u1l.com",
+		"cdn.iz8qkg.com",
+		"cdn.kin6c1.com",
+		"c.biggggg.com",
+		"c.olddddd.com",
+		"haiwaikan.com",
+		"www.histar.tv",
+		"youtube.com",
+		"uhibo.com",
+		".*boku.*",
+		".*nivod.*",
+		".*ulivetv.*"
+	],
+	"rules": [
+		{
+			"name": "proxy",
+			"hosts": [
+				"raw.githubusercontent.com",
+				"googlevideo.com",
+				"cdn.v82u1l.com",
+				"cdn.iz8qkg.com",
+				"cdn.kin6c1.com",
+				"c.biggggg.com",
+				"c.olddddd.com",
+				"haiwaikan.com",
+				"www.histar.tv",
+				"youtube.com",
+				"uhibo.com",
+				".*boku.*",
+				".*nivod.*",
+				"*.t4tv.hz.cz",
+				".*ulivetv.*"
+			]
+		},
+		{
+			"host": "www.djuu.com",
+			"rule": [
+				"mp4.djuu.com",
+				"m4a"
+			]
+		},
+		{
+			"host": "www.sharenice.net",
+			"rule": [
+				"huoshan.com",
+				"/item/video/"
+			],
+			"filter": []
+		},
+		{
+			"host": "www.sharenice.net",
+			"rule": [
+				"sovv.qianpailive.com",
+				"vid="
+			],
+			"filter": []
+		},
+		{
+			"host": "www.sharenice.net",
+			"rule": [
+				"douyin.com",
+				"/play/"
+			]
+		},
+		{
+			"host": "m.ysxs8.vip",
+			"rule": [
+				"ysting.ysxs8.vip:81",
+				"xmcdn.com"
+			],
+			"filter": []
+		},
+		{
+			"host": "hdmoli.com",
+			"rule": [
+				".m3u8"
+			]
+		},
+		{
+			"host": "https://api.live.bilibili.com",
+			"rule": [
+				"bilivideo.com",
+				"/index.m3u8"
+			],
+			"filter": [
+				"data.bilibili.com/log/web",
+				"i0.hdslb.com/bfs/live/"
+			]
+		},
+		{
+			"host": "www.agemys.cc",
+			"rule": [
+				"cdn-tos",
+				"obj/tos-cn"
+			]
+		},
+		{
+			"host": "www.fun4k.com",
+			"rule": [
+				"https://hd.ijycnd.com/play",
+				"index.m3u8"
+			]
+		},
+		{
+			"host": "zjmiao.com",
+			"rule": [
+				"play.videomiao.vip/API.php",
+				"time=",
+				"key=",
+				"path="
+			]
+		},
+		{
+			"name": "火山嗅探",
+			"hosts": [
+				"huoshan.com"
+			],
+			"regex": [
+				"item_id="
+			]
+		},
+		{
+			"name": "抖音嗅探",
+			"hosts": [
+				"douyin.com"
+			],
+			"regex": [
+				"is_play_url="
+			]
+		},
+		{
+			"name": "農民嗅探",
+			"hosts": [
+				"toutiaovod.com"
+			],
+			"regex": [
+				"video/tos/cn"
+			]
+		},
+		{
+			"name": "夜市",
+			"hosts": [
+				"yeslivetv.com"
+			],
+			"script": [
+				"document.getElementsByClassName('vjs-big-play-button')[0].click()"
+			]
+		},
+		{
+			"name": "毛驢",
+			"hosts": [
+				"www.maolvys.com"
+			],
+			"script": [
+				"document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+			]
+		},
+		{
+			"name": "磁力广告",
+			"hosts": [
+				"magnet"
+			],
+			"regex": [
+				"更多",
+				"社 區",
+				"x u u",
+				"最 新",
+				"直 播",
+				"更 新",
+				"社 区",
+				"有 趣",
+				"英皇体育",
+				"全中文AV在线",
+				"澳门皇冠赌场",
+				"哥哥快来",
+				"美女荷官",
+				"裸聊",
+				"新片首发",
+				"UUE29"
+			]
+		}
+	],
+	"parses": [],
+	"flags": [
+		"youku",
+		"qq",
+		"iqiyi",
+		"qiyi",
+		"letv",
+		"sohu",
+		"tudou",
+		"pptv",
+		"mgtv",
+		"wasu"
+	]
+}
