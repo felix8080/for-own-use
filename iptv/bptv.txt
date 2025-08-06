@@ -17,11 +17,6 @@ CCTV14,http://live.2025225.xyz/bptv/?id=CCTV14
 CCTV15,http://live.2025225.xyz/bptv/?id=CCTV15
 CCTV16,http://live.2025225.xyz/bptv/?id=CCTV16
 CCTV17,http://live.2025225.xyz/bptv/?id=CCTV17
-CCTV4欧洲,http://live.2025225.xyz/bptv/?id=CCTV4欧洲
-CCTV4美洲,http://live.2025225.xyz/bptv/?id=CCTV4美洲
-CHC家庭影院,http://live.2025225.xyz/bptv/?id=CHC家庭影院
-CHC动作电影,http://live.2025225.xyz/bptv/?id=CHC动作电影
-CHC影迷电影,http://live.2025225.xyz/bptv/?id=CHC影迷电影
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -63,14 +58,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 兵团卫视,http://live.2025225.xyz/bptv/?id=兵团卫视
 西藏卫视,http://live.2025225.xyz/bptv/?id=西藏卫视
 内蒙古卫视,http://live.2025225.xyz/bptv/?id=内蒙古卫视
-大湾区卫视,http://live.2025225.xyz/bptv/?id=大湾区卫视
 三沙卫视,http://live.2025225.xyz/bptv/?id=三沙卫视
 
 地方频道,#genre#
 金鹰卡通,http://live.2025225.xyz/bptv/?id=金鹰卡通
 卡酷少儿,http://live.2025225.xyz/bptv/?id=卡酷少儿
 嘉佳卡通,http://live.2025225.xyz/bptv/?id=嘉佳卡通
-优漫卡通,http://live.2025225.xyz/bptv/?id=优漫卡通
 哈哈炫动,http://live.2025225.xyz/bptv/?id=哈哈炫动
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -80,28 +73,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-东方影视,http://live.2025225.xyz/bptv/?id=东方影视
-上海第一财经,http://live.2025225.xyz/bptv/?id=上海第一财经
-湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
-湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
-湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
-湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
-湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
-湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
-湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
-佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 
 香港频道,#genre#
 凤凰卫视中文台,http://148.135.93.213/phenix.php?id=fhzw
