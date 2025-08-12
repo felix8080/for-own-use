@@ -79,12 +79,6 @@
 			"url": "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false"
 		},
 		{
-			"name": "国内直播yang",
-			"type": 0,
-			"url": "https://tv-1.iill.top/m3u/Gather",
-			"ua": "okhttp/3.15"
-		},
-		{
 			"name": "国内直播移动",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/ysten.m3u",
