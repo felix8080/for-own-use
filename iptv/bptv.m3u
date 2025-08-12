@@ -145,11 +145,11 @@ http://r.jdshipin.com/TcKr2
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://pic.erw.cc/epglogo/guangdong/Guangzhou6.png" group-title="地方频道",南国都市
 http://r.jdshipin.com/nWaZO
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="hhttps://live.fanmingming.cn/tv/凤凰卫视中文台.png" http-user-agent="iPhone" group-title="香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://101.35.240.114:88/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="hhttps://live.fanmingming.cn/tv/凤凰卫视资讯台.png" http-user-agent="iPhone" group-title="香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
 http://101.35.240.114:88/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="hhttps://live.fanmingming.cn/tv/凤凰卫视香港台.png" http-user-agent="iPhone" group-title="香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
 http://101.35.240.114:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="香港频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
