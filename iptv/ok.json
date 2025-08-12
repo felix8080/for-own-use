@@ -79,6 +79,12 @@
 			"url": "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false"
 		},
 		{
+			"name": "国内直播yang",
+			"type": 0,
+			"url": "https://tv-1.iill.top/m3u/Gather",
+			"ua": "okhttp/3.15"
+		},
+		{
 			"name": "国内直播移动",
 			"type": 0,
 			"url": "https://tv.2025225.xyz/ysten.m3u",
@@ -90,29 +96,16 @@
 			}
 		},
 		{
-			"name": "海外直播smt",
-			"type": 3,
-			"api": "https://tv.2025225.xyz/live/live_smt.py",
-			"ext": {},
-			"ua": "Goiptv/8.8.8"
+			"name": "香港地区🪜",
+			"type": 0,
+			"url": "https://tv-1.iill.top/m3u/MyTV",
+			"ua": "okhttp/3.15"
 		},
 		{
-			"name": "海外直播litv🪜",
+			"name": "台湾地区🪜",
 			"type": 3,
 			"api": "https://tv.2025225.xyz/live/live_litv.py",
 			"ext": {}
-		},
-		{
-			"name": "MyTV直播YanG🪜",
-			"type": 0,
-			"url": "https://tv.iill.top/m3u/MyTV",
-			"ua": "okhttp/3.15"
-		},
-		{
-			"name": "海外直播YanG🪜",
-			"type": 0,
-			"url": "https://tv.iill.top/m3u/Gather",
-			"ua": "okhttp/3.15"
 		}
 	],
 	"hosts": [
